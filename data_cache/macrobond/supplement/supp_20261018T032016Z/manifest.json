@@ -1,0 +1,289 @@
+{
+  "pull_id": "supp_20261018T032016Z",
+  "retrieved_utc": "2026-10-18T03:20:16.671364+00:00",
+  "note": "Phase 3 supplement (2nd stamp): adds SA labour force and BLS-database unemployment rate for the October 2025 rate cross-check",
+  "series": {
+    "uspric2373": {
+      "role": "core_cpi",
+      "first_obs": "1957-01-01",
+      "last_obs": "2026-09-01",
+      "n": 836,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:21.352000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, All Items Less Food & Energy, SA, Index"
+    },
+    "uspric2170": {
+      "role": "shelter_cpi",
+      "first_obs": "1953-01-01",
+      "last_obs": "2026-09-01",
+      "n": 884,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:22.684000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, Housing, Shelter, SA, Index"
+    },
+    "uspric2243": {
+      "role": "oer_cpi",
+      "first_obs": "1983-01-01",
+      "last_obs": "2026-09-01",
+      "n": 524,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:22.749000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, Housing, Shelter, Owners' Equivalent Rent of Residence, SA, Index"
+    },
+    "uspric2239": {
+      "role": "rent_cpi",
+      "first_obs": "1981-01-01",
+      "last_obs": "2026-09-01",
+      "n": 548,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:22.709000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, Housing, Shelter, Rent of Primary Residence, SA, Index"
+    },
+    "uspric2403": {
+      "role": "services_ex_energy_cpi",
+      "first_obs": "1967-01-01",
+      "last_obs": "2026-09-01",
+      "n": 716,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:22.671000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, Services Less Energy Services, SA, Index"
+    },
+    "uspric2382": {
+      "role": "core_goods_cpi",
+      "first_obs": "1957-01-01",
+      "last_obs": "2026-09-01",
+      "n": 836,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:21.364000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, Commodities Less Food & Energy Commodities, SA, Index"
+    },
+    "uspric2345": {
+      "role": "gasoline_cpi",
+      "first_obs": "1967-01-01",
+      "last_obs": "2026-09-01",
+      "n": 717,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:21.226000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, Transport, Private, Gasoline, All Types, SA, Index"
+    },
+    "uspric0017": {
+      "role": "median_cpi_ar",
+      "first_obs": "1983-01-01",
+      "last_obs": "2026-09-01",
+      "n": 525,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 15:00:31.948000+00:00",
+      "description": "United States, Consumer Price Index, Current Median CPI, FRB Cleveland Median, SA, AR, Change P/P"
+    },
+    "uspric0018": {
+      "role": "trimmed_mean_cpi_ar",
+      "first_obs": "1983-01-01",
+      "last_obs": "2026-09-01",
+      "n": 525,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 15:00:31.950000+00:00",
+      "description": "United States, Consumer Price Index, Current Median CPI, FRB Cleveland 16% Trimmed-Mean, SA, AR, Change P/P"
+    },
+    "uslama0001": {
+      "role": "ahe",
+      "first_obs": "2006-03-01",
+      "last_obs": "2026-09-01",
+      "n": 247,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-02 12:30:17.305000+00:00",
+      "description": "United States, Income & Earnings, Earnings, Average Hourly Earnings, All Employees, Total Private, SA, USD"
+    },
+    "uslama1060": {
+      "role": "payrolls",
+      "first_obs": "1939-01-01",
+      "last_obs": "2026-09-01",
+      "n": 1053,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-02 12:30:19.301000+00:00",
+      "description": "United States, Employment, Payroll, Nonfarm, Payroll, Total, SA"
+    },
+    "uslama1849": {
+      "role": "unemp_rate_sa",
+      "first_obs": "1948-01-01",
+      "last_obs": "2026-09-01",
+      "n": 945,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-02 12:30:17.230000+00:00",
+      "description": "United States, Unemployment, National, 16 Years & Over, Rate, SA"
+    },
+    "uslama2169": {
+      "role": "unemp_level_nsa",
+      "first_obs": "1948-01-01",
+      "last_obs": "2026-09-01",
+      "n": 944,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-02 12:30:18.009000+00:00",
+      "description": "United States, Unemployment, National, 16 Years & Over"
+    },
+    "bls_lns11000000m": {
+      "role": "labor_force_sa",
+      "first_obs": "1948-01-01",
+      "last_obs": "2026-09-01",
+      "n": 944,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-02 12:30:39.805000+00:00",
+      "description": "United States, BLS, CPS, Labor Force Statistics, Civilian Labor Force Level, SA"
+    },
+    "bls_lns14000000m": {
+      "role": "unemp_rate_bls_sa",
+      "first_obs": "1948-01-01",
+      "last_obs": "2026-09-01",
+      "n": 945,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-02 12:30:39.892000+00:00",
+      "description": "United States, BLS, CPS, Labor Force Statistics, Unemployment Rate, SA"
+    },
+    "uslama3350": {
+      "role": "claims_continuing_w",
+      "first_obs": "1967-01-02",
+      "last_obs": "2026-09-28",
+      "n": 3118,
+      "frequency": "weekly",
+      "macrobond_last_revision": "2026-10-15 12:30:36.129000+00:00",
+      "description": "United States, Unemployment, National, Jobless Claims, Continuing, Total, SA"
+    },
+    "uslama3295": {
+      "role": "claims_initial_w",
+      "first_obs": "1967-01-02",
+      "last_obs": "2026-10-05",
+      "n": 3119,
+      "frequency": "weekly",
+      "macrobond_last_revision": "2026-10-15 12:30:36.113000+00:00",
+      "description": "United States, Unemployment, National, Jobless Claims, Initial, Total, SA"
+    },
+    "wocaes0935": {
+      "role": "brent_wb",
+      "first_obs": "1960-01-01",
+      "last_obs": "2026-09-01",
+      "n": 801,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-02 22:00:31.070000+00:00",
+      "description": "World, World Bank, Crude Oil, Brent, Average Price, End of Period, USD"
+    },
+    "uspric2156": {
+      "role": "uspric2156",
+      "first_obs": "1947-01-01",
+      "last_obs": "2026-09-01",
+      "n": 956,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:19.243000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, All Items, SA, Index"
+    },
+    "uspric2368": {
+      "role": "uspric2368",
+      "first_obs": "1957-01-01",
+      "last_obs": "2026-09-01",
+      "n": 836,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:21.226000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, Energy, SA, Index"
+    },
+    "uspric2158": {
+      "role": "uspric2158",
+      "first_obs": "1947-01-01",
+      "last_obs": "2026-09-01",
+      "n": 956,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:19.299000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, Food & Beverages, Food, SA, Index"
+    },
+    "uslama0202": {
+      "role": "uslama0202",
+      "first_obs": "1947-01-01",
+      "last_obs": "2026-04-01",
+      "n": 318,
+      "frequency": "quarterly",
+      "macrobond_last_revision": "2026-08-06 12:32:15.321000+00:00",
+      "description": "United States, Productivity, Costs & Hours Worked, Labor Productivity & Costs, Nonfarm Business, Labor Productivity (Output Per Hour), SA, Index"
+    },
+    "uslama4604": {
+      "role": "uslama4604",
+      "first_obs": "1980-01-01",
+      "last_obs": "2026-04-01",
+      "n": 186,
+      "frequency": "quarterly",
+      "macrobond_last_revision": "2026-07-31 12:30:30.143000+00:00",
+      "description": "United States, Productivity, Costs & Hours Worked, Employment Cost Index, Wages & Salaries, Private Industry, All Workers, Current Prices, SA, Index"
+    },
+    "uslama1304": {
+      "role": "uslama1304",
+      "first_obs": "2000-12-01",
+      "last_obs": "2026-08-01",
+      "n": 309,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-09-29 14:00:54.879000+00:00",
+      "description": "United States, Labor Market Dynamics, Labor Turnover, Openings (Worker Flows), Nonfarm, Total, SA"
+    },
+    "uslama1795": {
+      "role": "uslama1795",
+      "first_obs": "1948-01-01",
+      "last_obs": "2026-09-01",
+      "n": 944,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-02 12:30:18.013000+00:00",
+      "description": "United States, Unemployment, National, 16 Years & Over, SA"
+    },
+    "usfcst0101": {
+      "role": "usfcst0101",
+      "first_obs": "1982-01-01",
+      "last_obs": "2026-10-01",
+      "n": 538,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 15:41:36.082000+00:00",
+      "description": "United States, Federal Reserve Bank of Cleveland, Inflation Expectations, Expected Inflation, Estimate, 1 Year"
+    },
+    "usfcst0110": {
+      "role": "usfcst0110",
+      "first_obs": "1982-01-01",
+      "last_obs": "2026-10-01",
+      "n": 538,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 15:41:36.091000+00:00",
+      "description": "United States, Federal Reserve Bank of Cleveland, Inflation Expectations, Expected Inflation, Estimate, 10 Year"
+    },
+    "wotrad0027": {
+      "role": "wotrad0027",
+      "first_obs": "1997-09-01",
+      "last_obs": "2026-09-01",
+      "n": 349,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-06 14:06:31.051000+00:00",
+      "description": "World, Foreign Trade, Global Supply Chain Pressure Index, Total, Index"
+    }
+  },
+  "sha256": {
+    "series/bls_lns11000000m.csv": "a0aac5c9e0f3eef05106564fcc85bdff187eb8ad225aa9e3b550cd84cc0b4962",
+    "series/bls_lns14000000m.csv": "97abe50183922e0f7ca8543605dd02347d84b390ee31529da24a1d17b2e1b950",
+    "series/usfcst0101.csv": "f4630321dbc3bd43d67309c37b80210f8a76d80b9631d1362f1bcbd7cde6893b",
+    "series/usfcst0110.csv": "01698479a85365bd7238e3174b5e7acdea409c7f3ddfa97fe7c48bb8817746f2",
+    "series/uslama0001.csv": "e3ced03fb2efa44e8ddad28d25a793d903b13724de9efc4f2a18a880fbc5f381",
+    "series/uslama0202.csv": "e44f883ecbacba320f43a96cf7d7a891603245767e698d826e9172390f44b2c2",
+    "series/uslama1060.csv": "28026de76eca3b998ddc6e68f803a8c4485c73c9e0f79d446977f16e405b2bbf",
+    "series/uslama1304.csv": "25b261db8874baeac2a722b32e47e06a0f63f740819bfc4ddee1be82f9c58cfe",
+    "series/uslama1795.csv": "10ab60d165be6c5ea6461f69e8da5c631348afadee0286c15185758d76f2027a",
+    "series/uslama1849.csv": "97abe50183922e0f7ca8543605dd02347d84b390ee31529da24a1d17b2e1b950",
+    "series/uslama2169.csv": "a08de96b52907de859c008e9ebeb40105f642e774d938c9533cd23495f1eb4a6",
+    "series/uslama3295.csv": "91bdb08781033698c39a29665c4e496644329bda6f36c450966738335db636aa",
+    "series/uslama3350.csv": "80215efdc6dbcba5126204ddd0caaac772abab8dd036fc048e5508af0693f61a",
+    "series/uslama4604.csv": "26d5bcf4753e235d23044a609ad9f473176ee557d552dd028aac4bec3cf5c2b0",
+    "series/uspric0017.csv": "9a23aca3a26aa2da11019fa7347fc901dfef01d75a37819b6d9670f5c9d9c6e0",
+    "series/uspric0018.csv": "b509f6d287070b7e9cb92b4744bc90dcdee0f1b0806477adadb8f66e1605118f",
+    "series/uspric2156.csv": "7132de787a22d01a2e588b84c435a7f4fe472a12586e3847b1d06ca56316e2f8",
+    "series/uspric2158.csv": "bcbb2a5ec882eb3c2797314a4a2815a644d5a5a8667ef928ed5f62e56e361170",
+    "series/uspric2170.csv": "ceccaf48081308bb3d2fd4b31bdee01301b5aa1421356253ccc1528eaf1511e3",
+    "series/uspric2239.csv": "425369d7a79f2e00646808fd212754e21891351f00461da6cbce025a40b87746",
+    "series/uspric2243.csv": "1b8d8fc43499624a9a3a8d59097b1a6421bfae1f1b5bb4c8c87bbcc6d843b1fc",
+    "series/uspric2345.csv": "f948df811a196d263ade4911c02494408fe605e0b27ed0ef9a77768779a6dfdd",
+    "series/uspric2368.csv": "f3eeecb499b070f9c0a2a94e323b5fed45c4abf5ac0f02dda1c5a3fdabb6f92a",
+    "series/uspric2373.csv": "8c056135d8f1d3625e36557b8005e0f7eee775ae9edd3df3ef4c1b555d636289",
+    "series/uspric2382.csv": "bf2d9f628e42f22ba37b976aff39fcd3625e3ba190f7777dcc14b5623489dac1",
+    "series/uspric2403.csv": "fe15b1ca096a1eadce38bc9bbc976a5b883bbbc0f3c3f2065138ec547f096d25",
+    "series/wocaes0935.csv": "b77508eaaeb980f95e590ab0cf2e2f118a39c7767493e5499801bcb18121e6e5",
+    "series/wotrad0027.csv": "8eb57ce0178a19c4713b8ed74c36acbad796a6bf22d789ca2f89326fb03efc03"
+  }
+}

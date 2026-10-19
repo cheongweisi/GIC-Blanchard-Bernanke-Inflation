@@ -1,0 +1,63 @@
+{
+  "retrieved_utc": "2026-10-16T06:10:43.390858+00:00",
+  "vintage": "2023-09-15T00:00:00",
+  "series": {
+    "CPIAUCSL": {
+      "tickers": [
+        "uspric2156"
+      ],
+      "agg": "last"
+    },
+    "CPIENGSL": {
+      "tickers": [
+        "uspric2368"
+      ],
+      "agg": "last"
+    },
+    "CPIUFDSL": {
+      "tickers": [
+        "uspric2158"
+      ],
+      "agg": "last"
+    },
+    "OPHNFB": {
+      "tickers": [
+        "uslama0202"
+      ],
+      "agg": "native"
+    },
+    "ECIWAG": {
+      "tickers": [
+        "uslama4604"
+      ],
+      "agg": "native"
+    },
+    "VOVERU": {
+      "tickers": [
+        "uslama1304",
+        "uslama1795"
+      ],
+      "agg": "mean"
+    },
+    "EXPINF1YR": {
+      "tickers": [
+        "usfcst0101"
+      ],
+      "agg": "last"
+    },
+    "EXPINF10YR": {
+      "tickers": [
+        "usfcst0110"
+      ],
+      "agg": "last"
+    },
+    "GSCPI": {
+      "tickers": [
+        "wotrad0027"
+      ],
+      "agg": "mean"
+    }
+  },
+  "sha256": "441ece15a0fda6a02a108466d00e9831bdae40ca52b633060b041a60dbd83c53",
+  "note": "sha256 backfilled in the validation phase"
+}

@@ -1,0 +1,67 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3888
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3888
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3888
+\ql VARIABLES\cell\qc gcpi (NY Fed)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3888
+\ql \cell\qc \cell\row
+\ql magpty\cell\qc -0.138**\cell\row
+\ql \cell\qc (0.0671)\cell\row
+\ql L.gcpi\cell\qc -0.185*\cell\row
+\ql \cell\qc (0.0949)\cell\row
+\ql L2.gcpi\cell\qc 0.210**\cell\row
+\ql \cell\qc (0.0945)\cell\row
+\ql L3.gcpi\cell\qc 0.246**\cell\row
+\ql \cell\qc (0.0940)\cell\row
+\ql L4.gcpi\cell\qc -0.105\cell\row
+\ql \cell\qc (0.0928)\cell\row
+\ql gw\cell\qc 0.402***\cell\row
+\ql \cell\qc (0.102)\cell\row
+\ql L.gw\cell\qc 0.248**\cell\row
+\ql \cell\qc (0.110)\cell\row
+\ql L2.gw\cell\qc 0.0832\cell\row
+\ql \cell\qc (0.110)\cell\row
+\ql L3.gw\cell\qc -0.0113\cell\row
+\ql \cell\qc (0.114)\cell\row
+\ql L4.gw\cell\qc 0.111\cell\row
+\ql \cell\qc (0.110)\cell\row
+\ql grpe\cell\qc 0.0921***\cell\row
+\ql \cell\qc (0.00291)\cell\row
+\ql L.grpe\cell\qc 0.0205**\cell\row
+\ql \cell\qc (0.00890)\cell\row
+\ql L2.grpe\cell\qc -0.0196**\cell\row
+\ql \cell\qc (0.00907)\cell\row
+\ql L3.grpe\cell\qc -0.0195**\cell\row
+\ql \cell\qc (0.00905)\cell\row
+\ql L4.grpe\cell\qc 0.00446\cell\row
+\ql \cell\qc (0.00869)\cell\row
+\ql grpf\cell\qc 0.125***\cell\row
+\ql \cell\qc (0.0395)\cell\row
+\ql L.grpf\cell\qc 0.0187\cell\row
+\ql \cell\qc (0.0406)\cell\row
+\ql L2.grpf\cell\qc -0.0220\cell\row
+\ql \cell\qc (0.0416)\cell\row
+\ql L3.grpf\cell\qc -0.0287\cell\row
+\ql \cell\qc (0.0387)\cell\row
+\ql L4.grpf\cell\qc 0.101***\cell\row
+\ql \cell\qc (0.0373)\cell\row
+\ql shortage\cell\qc 0.149\cell\row
+\ql \cell\qc (0.177)\cell\row
+\ql L.shortage\cell\qc 0.210\cell\row
+\ql \cell\qc (0.243)\cell\row
+\ql L2.shortage\cell\qc 0.112\cell\row
+\ql \cell\qc (0.238)\cell\row
+\ql L3.shortage\cell\qc -0.498**\cell\row
+\ql \cell\qc (0.229)\cell\row
+\ql L4.shortage\cell\qc 0.297*\cell\row
+\ql \cell\qc (0.174)\cell\row
+\ql Constant\cell\qc -0.0153\cell\row
+\ql \cell\qc (0.125)\cell\row
+\ql \cell\qc \cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3888
+\ql Observations\cell\qc 134\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

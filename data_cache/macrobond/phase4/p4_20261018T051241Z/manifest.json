@@ -1,0 +1,549 @@
+{
+  "pull_id": "p4_20261018T051241Z",
+  "retrieved_utc": "2026-10-18T05:12:41.960335+00:00",
+  "note": "Phase 4: oil history, EIA STEO, Brent futures strip Oct-2026..Dec-2029, 2026Q3 partial-quarter series",
+  "series": {
+    "wocaes0935": {
+      "role": "brent_wb_monthly",
+      "first_obs": "1960-01-01",
+      "last_obs": "2026-09-01",
+      "n": 801,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-02 22:00:31.070000+00:00",
+      "description": "World, World Bank, Crude Oil, Brent, Average Price, End of Period, USD"
+    },
+    "eiasteo0002": {
+      "role": "eia_steo_brent_monthly",
+      "first_obs": "1990-01-01",
+      "last_obs": "2027-12-01",
+      "n": 456,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-06 16:20:58.947000+00:00",
+      "description": "United States, EIA, Short Term Energy Outlook, Crude Oil, Brent Spot Average, Estimate, USD"
+    },
+    "steo_brepuus_q": {
+      "role": "eia_steo_brent_quarterly",
+      "first_obs": "1990-01-01",
+      "last_obs": "2027-10-01",
+      "n": 152,
+      "frequency": "quarterly",
+      "macrobond_last_revision": "2026-10-06 20:19:47.700000+00:00",
+      "description": "United States, EIA, Short Term Energy Outlook, Crude Oil, Brent Spot Average, Estimate, USD"
+    },
+    "b_c1_cl": {
+      "role": "brent_front_daily",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 270,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-17 00:17:51.309000+00:00",
+      "description": "Crude Oil, Future, ICE Brent Crude, 1st Position, Close, USD"
+    },
+    "uscaes0301": {
+      "role": "wti_spot_daily",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-15",
+      "n": 262,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 13:12:48.883000+00:00",
+      "description": "United States, Crude Oil, Cushing OK WTI Spot Price FOB, USD"
+    },
+    "uspric2156": {
+      "role": "cpi",
+      "first_obs": "1947-01-01",
+      "last_obs": "2026-09-01",
+      "n": 956,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:19.243000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, All Items, SA, Index"
+    },
+    "uspric2368": {
+      "role": "cpi_energy",
+      "first_obs": "1957-01-01",
+      "last_obs": "2026-09-01",
+      "n": 836,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:21.226000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, Energy, SA, Index"
+    },
+    "uspric2158": {
+      "role": "cpi_food",
+      "first_obs": "1947-01-01",
+      "last_obs": "2026-09-01",
+      "n": 956,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:19.299000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, Food & Beverages, Food, SA, Index"
+    },
+    "wotrad0027": {
+      "role": "gscpi",
+      "first_obs": "1997-09-01",
+      "last_obs": "2026-09-01",
+      "n": 349,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-06 14:06:31.051000+00:00",
+      "description": "World, Foreign Trade, Global Supply Chain Pressure Index, Total, Index"
+    },
+    "usfcst0101": {
+      "role": "cleveland_1y",
+      "first_obs": "1982-01-01",
+      "last_obs": "2026-10-01",
+      "n": 538,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 15:41:36.082000+00:00",
+      "description": "United States, Federal Reserve Bank of Cleveland, Inflation Expectations, Expected Inflation, Estimate, 1 Year"
+    },
+    "usfcst0110": {
+      "role": "cleveland_10y",
+      "first_obs": "1982-01-01",
+      "last_obs": "2026-10-01",
+      "n": 538,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 15:41:36.091000+00:00",
+      "description": "United States, Federal Reserve Bank of Cleveland, Inflation Expectations, Expected Inflation, Estimate, 10 Year"
+    },
+    "uslama1304": {
+      "role": "jolts_openings",
+      "first_obs": "2000-12-01",
+      "last_obs": "2026-08-01",
+      "n": 309,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-09-29 14:00:54.879000+00:00",
+      "description": "United States, Labor Market Dynamics, Labor Turnover, Openings (Worker Flows), Nonfarm, Total, SA"
+    },
+    "uslama1795": {
+      "role": "unemployment_level_sa",
+      "first_obs": "1948-01-01",
+      "last_obs": "2026-09-01",
+      "n": 944,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-02 12:30:18.013000+00:00",
+      "description": "United States, Unemployment, National, 16 Years & Over, SA"
+    },
+    "uslama0202": {
+      "role": "productivity_q",
+      "first_obs": "1947-01-01",
+      "last_obs": "2026-04-01",
+      "n": 318,
+      "frequency": "quarterly",
+      "macrobond_last_revision": "2026-08-06 12:32:15.321000+00:00",
+      "description": "United States, Productivity, Costs & Hours Worked, Labor Productivity & Costs, Nonfarm Business, Labor Productivity (Output Per Hour), SA, Index"
+    },
+    "uslama4604": {
+      "role": "eci_wages_q",
+      "first_obs": "1980-01-01",
+      "last_obs": "2026-04-01",
+      "n": 186,
+      "frequency": "quarterly",
+      "macrobond_last_revision": "2026-07-31 12:30:30.143000+00:00",
+      "description": "United States, Productivity, Costs & Hours Worked, Employment Cost Index, Wages & Salaries, Private Industry, All Workers, Current Prices, SA, Index"
+    },
+    "bz2026v_cl": {
+      "role": "bz_202610",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-08-28",
+      "n": 230,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-08-28 23:06:50.245000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, October, 2026, Close, USD"
+    },
+    "bz2026x_cl": {
+      "role": "bz_202611",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-09-30",
+      "n": 252,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-01 01:14:26.714000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, November, 2026, Close, USD"
+    },
+    "bz2026z_cl": {
+      "role": "bz_202612",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.315000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, December, 2026, Close, USD"
+    },
+    "bz2027f_cl": {
+      "role": "bz_202701",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.319000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, January, 2027, Close, USD"
+    },
+    "bz2027g_cl": {
+      "role": "bz_202702",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.321000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, February, 2027, Close, USD"
+    },
+    "bz2027h_cl": {
+      "role": "bz_202703",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.322000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, March, 2027, Close, USD"
+    },
+    "bz2027j_cl": {
+      "role": "bz_202704",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.324000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, April, 2027, Close, USD"
+    },
+    "bz2027k_cl": {
+      "role": "bz_202705",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.325000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, May, 2027, Close, USD"
+    },
+    "bz2027m_cl": {
+      "role": "bz_202706",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.326000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, June, 2027, Close, USD"
+    },
+    "bz2027n_cl": {
+      "role": "bz_202707",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.327000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, July, 2027, Close, USD"
+    },
+    "bz2027q_cl": {
+      "role": "bz_202708",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.328000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, August, 2027, Close, USD"
+    },
+    "bz2027u_cl": {
+      "role": "bz_202709",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.329000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, September, 2027, Close, USD"
+    },
+    "bz2027v_cl": {
+      "role": "bz_202710",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.330000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, October, 2027, Close, USD"
+    },
+    "bz2027x_cl": {
+      "role": "bz_202711",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.331000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, November, 2027, Close, USD"
+    },
+    "bz2027z_cl": {
+      "role": "bz_202712",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.332000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, December, 2027, Close, USD"
+    },
+    "bz2028f_cl": {
+      "role": "bz_202801",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.333000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, January, 2028, Close, USD"
+    },
+    "bz2028g_cl": {
+      "role": "bz_202802",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.333000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, February, 2028, Close, USD"
+    },
+    "bz2028h_cl": {
+      "role": "bz_202803",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.334000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, March, 2028, Close, USD"
+    },
+    "bz2028j_cl": {
+      "role": "bz_202804",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.335000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, April, 2028, Close, USD"
+    },
+    "bz2028k_cl": {
+      "role": "bz_202805",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.336000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, May, 2028, Close, USD"
+    },
+    "bz2028m_cl": {
+      "role": "bz_202806",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.337000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, June, 2028, Close, USD"
+    },
+    "bz2028n_cl": {
+      "role": "bz_202807",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.337000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, July, 2028, Close, USD"
+    },
+    "bz2028q_cl": {
+      "role": "bz_202808",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.338000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, August, 2028, Close, USD"
+    },
+    "bz2028u_cl": {
+      "role": "bz_202809",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.339000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, September, 2028, Close, USD"
+    },
+    "bz2028v_cl": {
+      "role": "bz_202810",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 263,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.340000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, October, 2028, Close, USD"
+    },
+    "bz2028x_cl": {
+      "role": "bz_202811",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.341000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, November, 2028, Close, USD"
+    },
+    "bz2028z_cl": {
+      "role": "bz_202812",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.342000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, December, 2028, Close, USD"
+    },
+    "bz2029f_cl": {
+      "role": "bz_202901",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.342000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, January, 2029, Close, USD"
+    },
+    "bz2029g_cl": {
+      "role": "bz_202902",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.343000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, February, 2029, Close, USD"
+    },
+    "bz2029h_cl": {
+      "role": "bz_202903",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 263,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.344000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, March, 2029, Close, USD"
+    },
+    "bz2029j_cl": {
+      "role": "bz_202904",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.345000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, April, 2029, Close, USD"
+    },
+    "bz2029k_cl": {
+      "role": "bz_202905",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 263,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.345000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, May, 2029, Close, USD"
+    },
+    "bz2029m_cl": {
+      "role": "bz_202906",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.346000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, June, 2029, Close, USD"
+    },
+    "bz2029n_cl": {
+      "role": "bz_202907",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 263,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.347000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, July, 2029, Close, USD"
+    },
+    "bz2029q_cl": {
+      "role": "bz_202908",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.347000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, August, 2029, Close, USD"
+    },
+    "bz2029u_cl": {
+      "role": "bz_202909",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.348000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, September, 2029, Close, USD"
+    },
+    "bz2029v_cl": {
+      "role": "bz_202910",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.349000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, October, 2029, Close, USD"
+    },
+    "bz2029x_cl": {
+      "role": "bz_202911",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.349000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, November, 2029, Close, USD"
+    },
+    "bz2029z_cl": {
+      "role": "bz_202912",
+      "first_obs": "2025-10-01",
+      "last_obs": "2026-10-16",
+      "n": 264,
+      "frequency": "daily",
+      "macrobond_last_revision": "2026-10-16 23:00:23.350000+00:00",
+      "description": "Crude Oil, Future, Brent Last Day, December, 2029, Close, USD"
+    }
+  },
+  "sha256": {
+    "series/b_c1_cl.csv": "711cab2f55a7091bffb435b270c05f77736d4c766851f837cf19349208f8de95",
+    "series/bz2026v_cl.csv": "bb0f37e9fa653e76ab4a1daf29a9bc73f2605831f89dd2164f54db18e2963247",
+    "series/bz2026x_cl.csv": "ccf39f6c2a631613e0dc9ef30572956821d887ffe0ea605cfe6d9a6a468c298c",
+    "series/bz2026z_cl.csv": "9a02ae4b72f6effcfb409453d5d2c24cf304c05a02b9bfec0a7f3b7b97bfb043",
+    "series/bz2027f_cl.csv": "fa94c647a9d03f0200c1f91ebd3daf877773eada83e51c28f5fc1c757e26e543",
+    "series/bz2027g_cl.csv": "c64c99f255ef3b84a43821ca6354aaec2ae0fbac93ed6975d53b690ae0ab1e8f",
+    "series/bz2027h_cl.csv": "35169e54899679f8dc078148fbbf9343883912c9f02ba91866b159dda9e8322f",
+    "series/bz2027j_cl.csv": "536c1b45f2e3f78e94c0a8e0fd9cde53248f6d81ec598a14b5a17368fe91b649",
+    "series/bz2027k_cl.csv": "6baf78f60029407524de6cbd36bebe7b117f12e963cd678cec8e920a5f6a1d14",
+    "series/bz2027m_cl.csv": "cba3094045726eb7474be7cb42075003772b7643b60d4bcbc5cfed1f7cdde1c4",
+    "series/bz2027n_cl.csv": "0f0e7c1ac4a7abb9eb732a991d445514dbe500d2f46e40bfadfc225e58ea04b3",
+    "series/bz2027q_cl.csv": "ce8a0895f213acc0deed10a10bc8d233ce908c9cb2226c8d6734f7249b7264cd",
+    "series/bz2027u_cl.csv": "dd88d512fe6d51bd224af1cd17205640a68e5f6a5980fa6f11887c85164cb6b6",
+    "series/bz2027v_cl.csv": "54c92add96b24489e8e7468a39cc17038f264415172d0288c1066a582fa07726",
+    "series/bz2027x_cl.csv": "4d0a995dcbf50e326a2ee417543216c000b56c18dd1c56d3628e6092476217cb",
+    "series/bz2027z_cl.csv": "d81f1ad93803df540af83ded9226e7ccaa4e34cac41081bbf0c8907af44f2631",
+    "series/bz2028f_cl.csv": "0332d8633f192e43c9f5fa0e12a0c145e3ed1882c605881b304d794196c622cd",
+    "series/bz2028g_cl.csv": "a8aa9deb7a3afb21f23253611e40ddc95c89397bdb4a8c6da3cfac191e525dc0",
+    "series/bz2028h_cl.csv": "fc6b3c9d94bd17d83f6f4b44901ea47776abf321d68befef70adcc66692e0e60",
+    "series/bz2028j_cl.csv": "6b42eda14264cd4a1577cc5274ae7c1ecc933928b3b50848bb5b14f992378db9",
+    "series/bz2028k_cl.csv": "a0853f4a8b8ccafd44329af32d4a45150a6f54544d108767e5633ab5b42f2823",
+    "series/bz2028m_cl.csv": "adf12d0ec992b1dee4c5195a8653a2901520b7ed83e0495e6f09572940e938b9",
+    "series/bz2028n_cl.csv": "596c99c5747d721ad52944d232c440b71190e5d98e23a5290e67986f1f4d580e",
+    "series/bz2028q_cl.csv": "c07fbad74b1a167fd7d334e79676a66cdf2354d3c84e7faa46eb7a6896e503f6",
+    "series/bz2028u_cl.csv": "a476a1ac26f290aca3a654333291e7612c6c12a1b8b59166cd1d7028a7e63360",
+    "series/bz2028v_cl.csv": "044083d29b0ac20bef0812e0f0f551cec83693449f6989bd505b07586b4ca8b6",
+    "series/bz2028x_cl.csv": "ef6e176770bbb8d2c08f5381ea2c1239b8f3d021751717ca9f342434b257a9fa",
+    "series/bz2028z_cl.csv": "207a9e0656900650844f553be7d7af6be2629183d24822d861d5976f26887eeb",
+    "series/bz2029f_cl.csv": "b94e4199bf0e8771efa003a03cc7af9b5cf9cd8f84fb2f8a7ef60dc95a2a3e0a",
+    "series/bz2029g_cl.csv": "da0d54a5bb0a4dcc2609eb31eddb5d867ca1e87ff4e5b10772f6e07577f1da5d",
+    "series/bz2029h_cl.csv": "05f0fef7be391c6bc550ad3346387a0ba620221a7a5af2b2ea8efa413e77505b",
+    "series/bz2029j_cl.csv": "d9b864d68a0ca77e50da9f9f9cd420181e3e8041c880c982aa1bd1b03f7b2442",
+    "series/bz2029k_cl.csv": "29c9af296ebb290efde2d404260e76ea96ef7459bcaf3e66bd9dd46fc6d5e098",
+    "series/bz2029m_cl.csv": "40930e52406d283b15cf13ec3a22bb21712846ea5e674f17548091e0565afd6d",
+    "series/bz2029n_cl.csv": "73c9faaeb16625bdb6d313465cd410986973aff38fcb1386b5381b7d931137e0",
+    "series/bz2029q_cl.csv": "86a302d02b1997df7c716b3822e1e2d9fbf4061f73f1f71e749c3ff2a22081a8",
+    "series/bz2029u_cl.csv": "399c47a322e258350c51576fde506069cd9a205730402c80cc6740f63e5a2e23",
+    "series/bz2029v_cl.csv": "46a3f7b3eed0eaa6a956e4bb42f322fbeeb995629638e502d7032d1b1bed0d0a",
+    "series/bz2029x_cl.csv": "c6b65ee570dbfacae6e6d040f4b7afa4b7a78cfe18fe460f1a4a1d9a123f1f9c",
+    "series/bz2029z_cl.csv": "4e7355a328375bcbd869f0b63ddaa1230b55756d02c1c3f796e77d8cb16923cf",
+    "series/eiasteo0002.csv": "9be65a76dd7af407d35c3f424deaf6b19973d2a5c138fdb268ab714c754afbd8",
+    "series/steo_brepuus_q.csv": "5ec59f71eb7f80654b014438b4273a7bd750073e62b1dcc13bf56f2ce3eb71de",
+    "series/uscaes0301.csv": "31b76fe7308cbe504f9d4b8a810416e67eee2f5a1c77c53dff87ba0433620f50",
+    "series/usfcst0101.csv": "f4630321dbc3bd43d67309c37b80210f8a76d80b9631d1362f1bcbd7cde6893b",
+    "series/usfcst0110.csv": "01698479a85365bd7238e3174b5e7acdea409c7f3ddfa97fe7c48bb8817746f2",
+    "series/uslama0202.csv": "e44f883ecbacba320f43a96cf7d7a891603245767e698d826e9172390f44b2c2",
+    "series/uslama1304.csv": "25b261db8874baeac2a722b32e47e06a0f63f740819bfc4ddee1be82f9c58cfe",
+    "series/uslama1795.csv": "10ab60d165be6c5ea6461f69e8da5c631348afadee0286c15185758d76f2027a",
+    "series/uslama4604.csv": "26d5bcf4753e235d23044a609ad9f473176ee557d552dd028aac4bec3cf5c2b0",
+    "series/uspric2156.csv": "7132de787a22d01a2e588b84c435a7f4fe472a12586e3847b1d06ca56316e2f8",
+    "series/uspric2158.csv": "bcbb2a5ec882eb3c2797314a4a2815a644d5a5a8667ef928ed5f62e56e361170",
+    "series/uspric2368.csv": "f3eeecb499b070f9c0a2a94e323b5fed45c4abf5ac0f02dda1c5a3fdabb6f92a",
+    "series/wocaes0935.csv": "b77508eaaeb980f95e590ab0cf2e2f118a39c7767493e5499801bcb18121e6e5",
+    "series/wotrad0027.csv": "8eb57ce0178a19c4713b8ed74c36acbad796a6bf22d789ca2f89326fb03efc03"
+  }
+}

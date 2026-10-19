@@ -1,0 +1,10 @@
+model,equation,sample,N,pandemic-era observations used
+hybrid (paper baseline),gw,1990Q1-2019Q4,120,no (ends 2019Q4)
+hybrid (paper baseline),gcpi,1990Q1-2023Q2,134,yes (through 2023Q2)
+hybrid (paper baseline),cf1,1990Q1-2019Q4,120,no (ends 2019Q4)
+hybrid (paper baseline),cf10,1990Q1-2019Q4,120,no (ends 2019Q4)
+full sample (what the authors' IRF/decomposition code reads),gw,1990Q1-2023Q2,134,yes (through 2023Q2)
+full sample (what the authors' IRF/decomposition code reads),gcpi,1990Q1-2023Q2,134,yes (through 2023Q2)
+full sample (what the authors' IRF/decomposition code reads),cf1,1990Q1-2023Q2,134,yes (through 2023Q2)
+full sample (what the authors' IRF/decomposition code reads),cf10,1990Q1-2023Q2,134,yes (through 2023Q2)
+price equation as in the paper's Table 3,gcpi,1990Q1-2023Q1,133,yes (through 2023Q1)

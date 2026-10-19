@@ -1,0 +1,6 @@
+Shock,Q0 response (pp),Peak response (pp),Quarter of peak,Persistence: quarters from peak until response first falls below 50% of peak,Rebound above half-peak afterwards?,CPI price-level effect after 3 years (%)
+Energy: Brent +10% (permanent),"0.97 [0.89, 1.05]","0.97 [0.89, 1.05]","0 [0, 0]","1Q [1, 1]",no at point estimate; 0% of draws rebound,"0.31 [0.22, 0.39]"
+Food: CPI food +10% (permanent),"4.77 [1.08, 8.46]","4.77 [2.81, 9.62]","0 [0, 4]","1Q [1, 2]",YES: back above half-peak in Q4; 33% of draws rebound,"2.38 [1.13, 3.56]"
+"Food, SENSITIVITY: same +10% shock, food lags 0-3 only (not B*)","4.64 [1.11, 8.30]","4.64 [2.33, 8.30]","0 [0, 3]","1Q [1, 2]",no at point estimate; 30% of draws rebound,"2.07 [0.82, 3.46]"
+Wages: +1pp for one quarter,"0.22 [0.07, 0.39]","0.25 [0.23, 0.47]","1 [0, 4]","6Q [1, 6]",no at point estimate; 67% of draws rebound,"0.42 [0.28, 0.63]"
+Supply chains: GSCPI +1 s.d. for one quarter,"0.14 [0.05, 0.23]","0.14 [0.05, 0.23]","0 [0, 0]","2Q [2, 2]",no at point estimate; 17% of draws rebound,"0.10 [0.04, 0.16]"

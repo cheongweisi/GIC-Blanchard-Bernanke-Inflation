@@ -1,0 +1,10 @@
+item,wording to use next to the number
+baseline y/y,"Model projection conditional on assumed drivers (futures oil curve, V/U held at 1.02, GSCPI AR(1), food with wages). Not a forecast with demonstrated skill: real-time-feasible forecasts of this kind have not beaten AR(4) since 2023."
+conditional model band,"Model band given the assumed drivers (parameters, equation residuals, bridge noise). It is NOT a forecast interval: at past origins the nominal 90% band contained 61-73% of outturns (29-43% in 2020-23)."
+empirical real-time band,"Baseline minus the 5th and 95th percentiles of past real-time errors (tier D, 86 origins, same horizon). Includes driver surprises; wide because 2008-09 and 2020-23 are in the sample."
+scenario deviation,"The model's response to a stated assumption, as a deviation from the baseline. The deviations are the product; the baseline level is not."
+90% parameter band,"Parameter uncertainty only, conditional on the model being right. Excludes driver, specification and out-of-sample error."
+specification range,"Range of the headline deviation across bridge elasticity 0.24-0.40 and wage catch-up 0 / 0.10 / 0.25. Catch-up 0.10 and 0.25 are calibrated overlays, not estimates (estimate: -0.002; upper 95% bound about +0.1); 0.25 is a stress."
+pass-through x0.8,"Labelled alternative assumption (Phase 3 supplement asymmetry estimate, not significant out of sample). Evidence from realised oil responses and the bridge points the other way (1.4-1.5 times the model; elasticity 0.37 at today's oil price)."
+wage constant,The estimated wage constant is inflation-neutral only at V/U 0.59 (the 1990-2019 mean). The baseline therefore treats V/U 1.02 as a tight labour market and drifts up about 0.1 pp a year; the neutral-constant path is the lower bound (2.63% in 2029Q3 against 3.13%).
+horizon,Read 1-3 years; the model has no inflation anchor.

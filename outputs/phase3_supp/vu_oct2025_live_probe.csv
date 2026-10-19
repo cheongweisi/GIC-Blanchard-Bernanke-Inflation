@@ -1,0 +1,9 @@
+ticker,description,last_revision,Sep 2025,Oct 2025,Nov 2025,queried_utc
+uslama1795,"United States, Unemployment, National, 16 Years & Over, SA",2026-10-02 12:30:18,7605000.0,,7781000.0,2026-10-18T03:17:50
+uslama2169,"United States, Unemployment, National, 16 Years & Over",2026-10-02 12:30:18,7324000.0,,7401000.0,2026-10-18T03:17:51
+uslama1849,"United States, Unemployment, National, 16 Years & Over, Rate, SA",2026-10-02 12:30:17,4.4,4.5,4.5,2026-10-18T03:17:51
+uslama2320,"United States, Unemployment, National, 16 Years & Over, Rate",2026-10-02 12:30:17,4.3,,4.3,2026-10-18T03:17:52
+bls_lns13000000m,"United States, BLS, CPS, Labor Force Statistics, Unemployment Level, SA",2026-10-02 12:30:39,7605000.0,,7781000.0,2026-10-18T03:17:52
+bls_lns14000000m,"United States, BLS, CPS, Labor Force Statistics, Unemployment Rate, SA",2026-10-02 12:30:39,4.4,4.5,4.5,2026-10-18T03:17:52
+bls_lnu03000000m,"United States, BLS, CPS, Labor Force Statistics, Unemployment Level",2026-10-02 12:30:39,7324000.0,,7401000.0,2026-10-18T03:17:53
+uslama1304,"United States, Labor Market Dynamics, Labor Turnover, Openings (Worker Flows), Nonfarm, Total, SA",2026-09-29 14:00:54,7169000.0,7170000.0,6846000.0,2026-10-18T03:17:53

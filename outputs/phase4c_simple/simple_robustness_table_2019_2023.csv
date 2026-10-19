@@ -1,0 +1,13 @@
+Shock,Sample,Q0 response (pp),Peak response (pp),Quarter of peak,Persistence: quarters from peak until response first falls below 50% of peak,Rebound above half-peak afterwards?,CPI price-level effect after 3 years (%)
+Energy,B*-2026,0.97,"0.97 [0.89, 1.05]",0,1Q,no at point estimate; 0% of draws rebound,"0.31 [0.22, 0.39]"
+Energy,B*-2019,0.96,"0.96 [0.87, 1.05]",0,1Q,no at point estimate; 0% of draws rebound,"0.27 [0.19, 0.35]"
+Energy,B*-2023,0.97,"0.97 [0.89, 1.06]",0,1Q,no at point estimate; 0% of draws rebound,"0.31 [0.23, 0.39]"
+Food,B*-2026,4.77,"4.77 [2.81, 9.62]",0,1Q,YES: back above half-peak in Q4; 33% of draws rebound,"2.38 [1.13, 3.56]"
+Food,B*-2019,6.04,"6.04 [4.09, 8.21]",0,1Q,YES: back above half-peak in Q3; 52% of draws rebound,"3.11 [1.62, 4.62]"
+Food,B*-2023,4.65,"4.65 [2.75, 9.71]",0,1Q,YES: back above half-peak in Q4; 34% of draws rebound,"2.34 [1.06, 3.53]"
+Wages,B*-2026,0.22,"0.25 [0.23, 0.47]",1,6Q,no at point estimate; 67% of draws rebound,"0.42 [0.28, 0.63]"
+Wages,B*-2019,0.14,"0.20 [0.16, 0.37]",1,4Q,no at point estimate; 63% of draws rebound,"0.31 [0.19, 0.54]"
+Wages,B*-2023,0.21,"0.25 [0.23, 0.47]",3,4Q,no at point estimate; 67% of draws rebound,"0.42 [0.28, 0.63]"
+Supply chains,B*-2026,0.14,"0.14 [0.05, 0.23]",0,2Q,no at point estimate; 17% of draws rebound,"0.10 [0.04, 0.16]"
+Supply chains,B*-2019,0.17,"0.18 [0.05, 0.33]",1,1Q,no at point estimate; 4% of draws rebound,"0.15 [0.04, 0.27]"
+Supply chains,B*-2023,0.15,"0.15 [0.06, 0.24]",0,2Q,no at point estimate; 18% of draws rebound,"0.10 [0.04, 0.16]"

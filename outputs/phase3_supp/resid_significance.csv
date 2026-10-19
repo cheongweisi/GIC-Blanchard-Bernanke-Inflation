@@ -1,0 +1,9 @@
+statistic,value
+"mean one-step residual 2023Q3-2026Q2, Model A (pp)",-0.3428446856945772
+Newey-West t (L=2) of the mean,-1.468653356479095
+"sd of residuals, pre-2020 sample (pp)",0.570733841603553
+mean excluding 2023Q3,-0.20074175956356646
+"mean excluding 2023Q3, 2025Q4, 2026Q1, 2026Q2",0.062243308843717954
+share of sum of squared residuals: 2023Q3,48.46416119714705
+share of sum of squared residuals: 2025Q4-2026Q2,32.745886313592514
+largest |z| (2023Q3),3.339519639803728

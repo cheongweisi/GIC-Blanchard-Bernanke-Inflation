@@ -1,0 +1,10 @@
+{
+  "pull_id": "pull_20261017T112636Z",
+  "last_complete": "2026Q2",
+  "notes": [
+    "pull pull_20261017T112636Z; last complete quarter 2026Q2",
+    "V/U and ECI: authors' history through 2000Q4, Macrobond afterwards",
+    "V/U 2025Q4 undefined (a monthly input was not published); bridged value 0.8765 = ratio of means over the months where both JOLTS and unemployment exist (simulation/diagnostics only)",
+    "2026Q3 is partial (6/9 series observed; missing: OPHNFB, ECIWAG, VOVERU) and is not used"
+  ]
+}

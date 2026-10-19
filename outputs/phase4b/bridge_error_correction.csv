@@ -1,0 +1,13 @@
+,value
+"static long-run elasticity (levels, with trend)",0.3203464711808428
+trend (% per year),1.6030314339733065
+ADF t-stat of levels residual,-3.5774873721984486
+short-run sum of oil lags in ECM,0.2695850437799526
+short-run s.e.,0.027758824364106264
+adjustment speed gamma (per month),-0.09265599839037969
+gamma s.e.,0.020122295234430616
+half-life of levels deviation (months),7.128677642525209
+current levels residual u (log pts),0.11690697534851768
+u in 2026-06 (log pts),0.11690697534851768
+u 2021-12 (log pts),0.056821282104616344
+u 2022-06 (log pts),0.10483481094701919

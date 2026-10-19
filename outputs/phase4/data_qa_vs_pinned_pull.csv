@@ -1,0 +1,7 @@
+series,quarters compared,max |difference|,n revised (|diff|>1e-9)
+CPI all items,46,0.0,0
+CPI energy,46,0.0,0
+CPI food,46,0.0,0
+Cleveland 1y,46,0.0,0
+Cleveland 10y,46,0.0,0
+GSCPI (quarterly mean),46,2.220446049250313e-16,0

@@ -1,0 +1,89 @@
+shock,comparison,statistic,difference,lo90,hi90,"p (two-sided, from draws)"
+energy,B*-2026 minus B*-2019,Q0 response (pp),0.010921217825452967,-0.03427008323527814,0.057854318457036466,0.684
+energy,B*-2026 minus B*-2019,Q1 response (pp),0.022028935635059685,-0.041398354502934206,0.08767586885357777,0.555
+energy,B*-2026 minus B*-2019,peak response (pp),0.010921217825452967,-0.03427008323527814,0.057854318457036466,0.684
+energy,B*-2026 minus B*-2019,quarter of peak,0.0,0.0,0.0,1.0
+energy,B*-2026 minus B*-2019,persistence: quarters from peak until the response first falls below 50% of the peak,0.0,0.0,0.0,1.0
+energy,B*-2026 minus B*-2019,rebounds to at least 50% of the peak after first falling below it (1 = yes),0.0,0.0,0.0,1.0
+energy,B*-2026 minus B*-2019,quarter of the first rebound,,,,
+energy,B*-2026 minus B*-2019,response in Q4 as % of peak,2.0416918468699548,-1.9809251508756827,6.194813899745768,0.462
+energy,B*-2026 minus B*-2019,response in Q11 as % of peak,0.704991568212324,-0.6918497331934889,2.0132702167018106,0.412
+energy,B*-2026 minus B*-2019,price level after 12 quarters (%),0.03892796566949169,-0.030038812055742464,0.10775062171827954,0.346
+energy,B*-2026 minus B*-2019,price level after 4 quarters (%),0.021929699615233694,-0.026152136972294633,0.06901612384857737,0.453
+energy,B*-2026 minus B*-2023,Q0 response (pp),-0.002998175115466073,-0.0123733407835887,0.0061550015509670795,0.603
+energy,B*-2026 minus B*-2023,Q1 response (pp),-0.007800593824604393,-0.01768661394405378,0.003278225232346152,0.26
+energy,B*-2026 minus B*-2023,peak response (pp),-0.002998175115466073,-0.0123733407835887,0.0061550015509670795,0.603
+energy,B*-2026 minus B*-2023,quarter of peak,0.0,0.0,0.0,1.0
+energy,B*-2026 minus B*-2023,persistence: quarters from peak until the response first falls below 50% of the peak,0.0,0.0,0.0,1.0
+energy,B*-2026 minus B*-2023,rebounds to at least 50% of the peak after first falling below it (1 = yes),0.0,0.0,0.0,1.0
+energy,B*-2026 minus B*-2023,quarter of the first rebound,,,,
+energy,B*-2026 minus B*-2023,response in Q4 as % of peak,-0.011126383352174751,-0.6553193152727879,0.7850459677369281,0.958
+energy,B*-2026 minus B*-2023,response in Q11 as % of peak,0.10962705952114193,-0.3114353929309974,0.5391599450229396,0.669
+energy,B*-2026 minus B*-2023,price level after 12 quarters (%),-0.002508258780009709,-0.013538571957540319,0.009675069909505486,0.767
+energy,B*-2026 minus B*-2023,price level after 4 quarters (%),-0.00425896189959013,-0.010850172262218053,0.0032136739722251613,0.343
+food,B*-2026 minus B*-2019,Q0 response (pp),-1.2753074980782007,-4.78337948061094,2.20635469064153,0.536
+food,B*-2026 minus B*-2019,Q1 response (pp),1.1974093017531189,-1.3380895209117887,3.8342869964906017,0.438
+food,B*-2026 minus B*-2019,peak response (pp),-1.2753074980782007,-3.2933762943833136,3.5581787645053016,0.868
+food,B*-2026 minus B*-2019,quarter of peak,0.0,0.0,4.0,1.0
+food,B*-2026 minus B*-2019,persistence: quarters from peak until the response first falls below 50% of the peak,0.0,0.0,1.0,1.0
+food,B*-2026 minus B*-2019,rebounds to at least 50% of the peak after first falling below it (1 = yes),0.0,-1.0,1.0,1.0
+food,B*-2026 minus B*-2019,quarter of the first rebound,1.0,0.0,2.0,0.4899135446685879
+food,B*-2026 minus B*-2019,response in Q4 as % of peak,63.333796423200916,-23.484518145875025,116.88597590799189,0.288
+food,B*-2026 minus B*-2019,response in Q11 as % of peak,-2.3065065780412244,-19.730711870483333,2.4931079632111,0.407
+food,B*-2026 minus B*-2019,price level after 12 quarters (%),-0.7279716040366826,-1.8154621148755654,0.2569805730304488,0.222
+food,B*-2026 minus B*-2019,price level after 4 quarters (%),-0.3526517862895573,-1.1534900353244006,0.5689909068802725,0.541
+food,B*-2026 minus B*-2023,Q0 response (pp),0.11353776238803537,-0.2128741226076424,0.42806287840155016,0.546
+food,B*-2026 minus B*-2023,Q1 response (pp),0.14128995439046965,-0.13047127617037935,0.39689773376382403,0.389
+food,B*-2026 minus B*-2023,peak response (pp),0.11353776238803537,-0.33102365184318994,0.37237878639701794,0.982
+food,B*-2026 minus B*-2023,quarter of peak,0.0,0.0,0.0,1.0
+food,B*-2026 minus B*-2023,persistence: quarters from peak until the response first falls below 50% of the peak,0.0,0.0,0.0,1.0
+food,B*-2026 minus B*-2023,rebounds to at least 50% of the peak after first falling below it (1 = yes),0.0,0.0,0.0,1.0
+food,B*-2026 minus B*-2023,quarter of the first rebound,0.0,0.0,0.0,1.0
+food,B*-2026 minus B*-2023,response in Q4 as % of peak,-2.549764019810098,-7.724650555377992,3.475121654437178,1.0
+food,B*-2026 minus B*-2023,response in Q11 as % of peak,0.4690306047066992,-0.7535405045124495,3.317302923977074,0.465
+food,B*-2026 minus B*-2023,price level after 12 quarters (%),0.0435233974764464,-0.18502117379633146,0.28136241662701356,0.722
+food,B*-2026 minus B*-2023,price level after 4 quarters (%),0.017321245048254497,-0.1524255200680433,0.1723236675913244,0.906
+wages,B*-2026 minus B*-2019,Q0 response (pp),0.07852475242271775,-0.03846438862534208,0.1875573618491602,0.245
+wages,B*-2026 minus B*-2019,Q1 response (pp),0.04854633116439383,-0.07221434265504317,0.1610913311964295,0.549
+wages,B*-2026 minus B*-2019,peak response (pp),0.04854633116439383,-0.02038933603211514,0.19132458456331936,0.202
+wages,B*-2026 minus B*-2019,quarter of peak,0.0,-4.0,3.0,1.0
+wages,B*-2026 minus B*-2019,persistence: quarters from peak until the response first falls below 50% of the peak,2.0,-4.0,3.0,1.0
+wages,B*-2026 minus B*-2019,rebounds to at least 50% of the peak after first falling below it (1 = yes),0.0,-1.0,1.0,1.0
+wages,B*-2026 minus B*-2019,quarter of the first rebound,,-3.0,3.0,1.0
+wages,B*-2026 minus B*-2019,response in Q4 as % of peak,-43.0972616590339,-88.56546283439722,9.906429292126766,0.216
+wages,B*-2026 minus B*-2019,response in Q11 as % of peak,6.1726239532407305,-12.670338453802353,17.63108843785852,0.59
+wages,B*-2026 minus B*-2019,price level after 12 quarters (%),0.10581105540598196,-0.005443000285457003,0.2040488038324136,0.11
+wages,B*-2026 minus B*-2019,price level after 4 quarters (%),0.06415840024050617,0.003394081023655299,0.11668691065532653,0.079
+wages,B*-2026 minus B*-2023,Q0 response (pp),0.005008401841109317,-0.01558294077581914,0.025494681278212698,0.693
+wages,B*-2026 minus B*-2023,Q1 response (pp),0.01946726454585912,-0.0162374171863165,0.0557663367282896,0.366
+wages,B*-2026 minus B*-2023,peak response (pp),0.004150037114862448,-0.03067932434215943,0.03321854474888473,0.964
+wages,B*-2026 minus B*-2023,quarter of peak,-2.0,-2.0,0.0,1.0
+wages,B*-2026 minus B*-2023,persistence: quarters from peak until the response first falls below 50% of the peak,2.0,-2.0,2.0,1.0
+wages,B*-2026 minus B*-2023,rebounds to at least 50% of the peak after first falling below it (1 = yes),0.0,-1.0,1.0,1.0
+wages,B*-2026 minus B*-2023,quarter of the first rebound,,-2.0,1.0,1.0
+wages,B*-2026 minus B*-2023,response in Q4 as % of peak,-2.1769035111226387,-12.211612001600948,8.932102508533905,0.961
+wages,B*-2026 minus B*-2023,response in Q11 as % of peak,0.49500579038333115,-4.070905162782105,3.4995591792021403,0.884
+wages,B*-2026 minus B*-2023,price level after 12 quarters (%),0.0005144438290578535,-0.020946297807218732,0.016910978197130975,0.99
+wages,B*-2026 minus B*-2023,price level after 4 quarters (%),0.0014643940322425775,-0.009037001320663231,0.012773601281676854,0.763
+supply,B*-2026 minus B*-2019,Q0 response (pp),-0.03432212975957022,-0.18364286827547965,0.11323801129350308,0.673
+supply,B*-2026 minus B*-2019,Q1 response (pp),-0.06724667046947913,-0.2179827587780782,0.06300098370562998,0.397
+supply,B*-2026 minus B*-2019,peak response (pp),-0.04053654067710974,-0.2004636306496338,0.10798329883984645,0.624
+supply,B*-2026 minus B*-2019,quarter of peak,-1.0,-1.0,0.0,0.745
+supply,B*-2026 minus B*-2019,persistence: quarters from peak until the response first falls below 50% of the peak,1.0,0.0,1.0,0.7483544303797468
+supply,B*-2026 minus B*-2019,rebounds to at least 50% of the peak after first falling below it (1 = yes),0.0,0.0,1.0,1.0
+supply,B*-2026 minus B*-2019,quarter of the first rebound,,0.0,0.0,1.0
+supply,B*-2026 minus B*-2019,response in Q4 as % of peak,-7.859623250110889,-22.178961877313654,5.493210875340173,0.316
+supply,B*-2026 minus B*-2019,response in Q11 as % of peak,1.0230297171452953,-3.4460079268836927,5.75814220520528,0.668
+supply,B*-2026 minus B*-2019,price level after 12 quarters (%),-0.0465508867684767,-0.1810576350407902,0.06472704479417384,0.473
+supply,B*-2026 minus B*-2019,price level after 4 quarters (%),-0.04032994658248015,-0.14868514838789987,0.05161515979349833,0.461
+supply,B*-2026 minus B*-2023,Q0 response (pp),-0.009666280495817942,-0.03127458164678306,0.012071903107612407,0.453
+supply,B*-2026 minus B*-2023,Q1 response (pp),-0.005893373892410847,-0.020559843109650058,0.006457789911663051,0.457
+supply,B*-2026 minus B*-2023,peak response (pp),-0.009666280495817942,-0.03109888064596793,0.011864059337687721,0.452
+supply,B*-2026 minus B*-2023,quarter of peak,0.0,0.0,0.0,1.0
+supply,B*-2026 minus B*-2023,persistence: quarters from peak until the response first falls below 50% of the peak,0.0,0.0,0.0,1.0
+supply,B*-2026 minus B*-2023,rebounds to at least 50% of the peak after first falling below it (1 = yes),0.0,0.0,0.0,1.0
+supply,B*-2026 minus B*-2023,quarter of the first rebound,,0.0,0.0,1.0
+supply,B*-2026 minus B*-2023,response in Q4 as % of peak,1.7863695079638369,-1.2893153183659052,4.607837643876608,0.319
+supply,B*-2026 minus B*-2023,response in Q11 as % of peak,0.5627382694953456,-0.9660415724065949,1.778730136628232,0.393
+supply,B*-2026 minus B*-2023,price level after 12 quarters (%),-0.0032753509630714245,-0.016616478167202957,0.007676310536105589,0.633
+supply,B*-2026 minus B*-2023,price level after 4 quarters (%),-0.004020488763650909,-0.014530296413007997,0.0049155169946819574,0.477

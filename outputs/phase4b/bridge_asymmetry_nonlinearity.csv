@@ -1,0 +1,8 @@
+test,estimate,s.e.,n
+asymmetry: elasticity to oil rises,0.2673592539883897,0.03217863676095199,436
+asymmetry: elasticity to oil falls,0.31450588617508923,0.04014718118543582,436
+asymmetry: rises minus falls (t = estimate / s.e.),-0.04714663218669951,0.05075900288403971,436
+price level: elasticity at trailing-10y mean oil price,0.27958740886288674,0.02033560836681181,436
+price level: change in elasticity per +1 in log(Brent / 10y mean),0.1665998701150439,0.05286485862675568,436
+price level: implied elasticity now (log Brent / 10y mean = 0.52),0.3667510525548633,0.03432967616894922,436
+"high-price regime (Brent > 1.5x 10y mean, 130 months): extra elasticity",0.18475633711731249,0.07159644071502692,436

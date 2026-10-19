@@ -1,0 +1,25 @@
+scenario,driver additivity gap (pp),layer additivity gap (pp)
+oil_flat,0.0,2.220446049250313e-16
+oil_up30,0.0,0.0
+oil_dn30,0.0,4.440892098500626e-16
+oil_spike,0.0,4.440892098500626e-16
+oil_norm,0.0,0.0
+oil_steo,0.0,0.0
+vu_tight,0.0,0.0
+vu_loose,0.0,0.0
+gscpi_up,0.0,0.0
+food_up,0.0,4.440892098500626e-16
+prod_dn,0.0,0.0
+expect_up,0.0,0.0
+adverse_supply,5.551115123125783e-15,4.440892098500626e-16
+benign,4.440892098500626e-15,2.220446049250313e-16
+overheating,3.9968028886505635e-15,4.440892098500626e-16
+oil_flat__x0.8,0.0,0.0
+oil_up30__x0.8,0.0,0.0
+oil_dn30__x0.8,0.0,0.0
+oil_spike__x0.8,0.0,0.0
+oil_norm__x0.8,0.0,0.0
+oil_steo__x0.8,0.0,0.0
+adverse_supply__x0.8,4.440892098500626e-15,0.0
+benign__x0.8,3.552713678800501e-15,2.220446049250313e-16
+overheating__x0.8,7.549516567451064e-15,4.440892098500626e-16

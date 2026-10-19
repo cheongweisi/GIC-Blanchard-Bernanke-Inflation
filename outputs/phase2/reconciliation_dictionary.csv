@@ -1,0 +1,10 @@
+Model column,Macrobond ticker(s),Description,Agency code,Unit,SA,Native freq,To quarterly,First obs (native),Latest obs (native),Latest quarter in model data,Observed release lag (days after period end),Notes
+CPIAUCSL,uspric2156,"CPI-U, all items, US city average",BLS CUSR0000SA0,Index 1982-84=100,SA,monthly,last month of quarter,1947-01,2026-09,2026Q3,15,FRED CPIAUCSL
+CPIENGSL,uspric2368,"CPI-U, energy, US city average",BLS CUSR0000SA0E,Index 1982-84=100,SA,monthly,last month of quarter,1957-01,2026-09,2026Q3,15,FRED CPIENGSL
+CPIUFDSL,uspric2158,"CPI-U, food, US city average",BLS CUSR0000SAF1,Index 1982-84=100,SA,monthly,last month of quarter,1947-01,2026-09,2026Q3,15,FRED CPIUFDSL
+OPHNFB,uslama0202,Nonfarm business labor productivity (output per hour),BLS PRS85006093,Index 2017=100 (authors' file: 2012=100; only growth is used),SA,quarterly,none,1947-01,2026-04,2026Q2,38,FRED OPHNFB
+ECIWAG,uslama4604,"Employment Cost Index, wages & salaries, private industry",BLS CIS2020000000000I,Index Dec 2005=100,SA,quarterly,none,1980-01,2026-04,2026Q2,32,FRED ECIWAG; Macrobond history starts 1980Q1
+VOVERU,uslama1304 / uslama1795,V/U = JOLTS job openings (nonfarm total) / unemployed (16+),BLS JTS000000000000000JOL / LNS13000000,Ratio,SA,monthly,mean of 3 months,2000-12,2026-08,2026Q2,30,Ratio of quarterly means. JOLTS starts 2000-12; authors use Barnichon (2010) before 2001
+EXPINF1YR,usfcst0101,"Cleveland Fed expected inflation, 1 year",FRB Cleveland,Percent,NSA,monthly,last month of quarter,1982-01,2026-10,2026Q3,within period (nowcast),"FRED EXPINF1YR; monthly, last month of quarter"
+EXPINF10YR,usfcst0110,"Cleveland Fed expected inflation, 10 year",FRB Cleveland,Percent,NSA,monthly,last month of quarter,1982-01,2026-10,2026Q3,within period (nowcast),"FRED EXPINF10YR; monthly, last month of quarter"
+GSCPI,wotrad0027,NY Fed Global Supply Chain Pressure Index,FRB New York,Std. dev. from mean,n/a,monthly,mean of 3 months,1997-09,2026-09,2026Q3,7,Substitute for the Google Trends 'shortage' index; revised monthly

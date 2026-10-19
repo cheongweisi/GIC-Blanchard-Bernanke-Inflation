@@ -1,0 +1,15 @@
+{
+  "written_utc": "2026-10-17T09:40:45.097967+00:00",
+  "active_pull": {
+    "pull_id": "pull_20261016T061219Z",
+    "retrieved_utc": "2026-10-16T06:12:19.266633+00:00",
+    "note": "migrated from the Phase-2 'current' cache; quarterly data only (native series not stored)",
+    "quarterly_sha256": "662280702e9b6a7dbf5aac72a13aadcd916f2d6ae67f50f18dd7cc094f0f2995"
+  },
+  "authors_vintage_cache": "asof_20230915",
+  "python": "3.12.7",
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "scipy": "1.18.1",
+  "statsmodels": "0.15.0"
+}

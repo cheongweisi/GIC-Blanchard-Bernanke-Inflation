@@ -1,0 +1,65 @@
+{
+  "pull_id": "pull_20261016T061219Z",
+  "retrieved_utc": "2026-10-16T06:12:19.266633+00:00",
+  "note": "migrated from the Phase-2 'current' cache; quarterly data only (native series not stored)",
+  "registry": {
+    "CPIAUCSL": {
+      "tickers": [
+        "uspric2156"
+      ],
+      "agg": "last"
+    },
+    "CPIENGSL": {
+      "tickers": [
+        "uspric2368"
+      ],
+      "agg": "last"
+    },
+    "CPIUFDSL": {
+      "tickers": [
+        "uspric2158"
+      ],
+      "agg": "last"
+    },
+    "OPHNFB": {
+      "tickers": [
+        "uslama0202"
+      ],
+      "agg": "native"
+    },
+    "ECIWAG": {
+      "tickers": [
+        "uslama4604"
+      ],
+      "agg": "native"
+    },
+    "VOVERU": {
+      "tickers": [
+        "uslama1304",
+        "uslama1795"
+      ],
+      "agg": "mean"
+    },
+    "EXPINF1YR": {
+      "tickers": [
+        "usfcst0101"
+      ],
+      "agg": "last"
+    },
+    "EXPINF10YR": {
+      "tickers": [
+        "usfcst0110"
+      ],
+      "agg": "last"
+    },
+    "GSCPI": {
+      "tickers": [
+        "wotrad0027"
+      ],
+      "agg": "mean"
+    }
+  },
+  "sha256": {
+    "quarterly_raw.csv": "662280702e9b6a7dbf5aac72a13aadcd916f2d6ae67f50f18dd7cc094f0f2995"
+  }
+}

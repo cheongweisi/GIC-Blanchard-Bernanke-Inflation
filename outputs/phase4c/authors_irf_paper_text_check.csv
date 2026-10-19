@@ -1,0 +1,6 @@
+claim in paper,paper,shipped file / full-sample coefficients,"hybrid coefficients, same shock","hybrid coefficients, V/U +0.5"
+V/U IRF: inflation about 0.7 pp after 6 quarters,0.7,0.7810773807417892,0.6615028383764955,0.5711337355922763
+V/U IRF: about 1.0 pp after 12 quarters,1.0,1.0855327502177354,0.9368520430807818,0.8088669859303734
+V/U IRF: keeps rising about 0.15 pp per year thereafter,0.15,0.09144727546628584,0.07920557772799407,0.06838516006757782
+Energy IRF: effects mostly gone the quarter after the shock (h=1 response relative to impact),,0.061091758671340625,,
+Energy IRF: small sustained increase in inflation of about 0.1 pp (h=27),0.1,0.06380916980645608,0.06456264641408337,

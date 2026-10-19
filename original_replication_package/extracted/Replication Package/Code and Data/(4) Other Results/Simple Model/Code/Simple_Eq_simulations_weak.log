@@ -1,0 +1,43 @@
+Starting Dynare (version 5.3).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Substitution of endo lags >= 2: added 1 auxiliary variables and equations.
+Found 10 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 2).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+MODEL SUMMARY
+
+  Number of variables:         10
+  Number of stochastic shocks: 3
+  Number of state variables:   8
+  Number of jumpers:           0
+  Number of static variables:  2
+
+
+MATRIX OF COVARIANCE OF EXOGENOUS SHOCKS
+Variables      eta_zw    eta_zp     eta_u
+eta_zw       1.000000  0.000000  0.000000
+eta_zp       0.000000  1.000000  0.000000
+eta_u        0.000000  0.000000  1.000000
+
+POLICY AND TRANSITION FUNCTIONS
+                                   w               p
+w(-1)                       1.000000        1.000000
+pe(-1)                     -0.200000       -0.200000
+p(-1)                       0.345000        0.345000
+pistar(-1)                  0.855000        0.855000
+u(-1)                       0.040000        0.040000
+p(-2)                      -0.145000       -0.145000
+eta_zw                      1.000000        1.000000
+eta_zp                             0        1.000000
+eta_u                       0.200000        0.200000
+
+All endogenous are constant or non stationary, not displaying correlations and auto-correlations
+
+Total computing time : 0h00m04s

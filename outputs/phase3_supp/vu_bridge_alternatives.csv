@@ -1,0 +1,6 @@
+method,label,U_oct (thousand),VU_2025Q4,claims beta
+nov_dec,Nov-Dec ratio of means (Phase 3),,0.8764721277152577,
+interp,Interpolate U(Oct) from Sep and Nov,7693.0,0.8950689820255038,
+carry_sep,Carry U(Sep) forward,7605.0,0.8985102014067892,
+carry_nov,Carry U(Nov) back,7781.0,0.8916540212443096,
+claims,Claims-tilted interpolation of U(Oct),7712.816025938722,0.894297713944533,0.20179007063498425

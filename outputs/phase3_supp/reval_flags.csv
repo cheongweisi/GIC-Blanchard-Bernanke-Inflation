@@ -1,0 +1,85 @@
+model,kind,rule,flag
+A,plausibility,"price: lagged-inflation sum outside (0,1)",False
+A,plausibility,"price: wage pass-through outside (0,1)",False
+A,plausibility,price: energy sum <= 0,False
+A,plausibility,price: food sum <= 0,False
+A,plausibility,price: shortage effect <= 0,False
+A,plausibility,wage: V/U sum <= 0,False
+A,plausibility,"wage: own-lag + expectations weights outside (0,1)",False
+A,plausibility,cf1: weight on cf10 or gcpi negative,False
+A,plausibility,cf10: weight on gcpi negative,False
+B (Phase 3),plausibility,"price: lagged-inflation sum outside (0,1)",False
+B (Phase 3),plausibility,"price: wage pass-through outside (0,1)",False
+B (Phase 3),plausibility,price: energy sum <= 0,False
+B (Phase 3),plausibility,price: food sum <= 0,False
+B (Phase 3),plausibility,price: shortage effect <= 0,False
+B (Phase 3),plausibility,wage: V/U sum <= 0,False
+B (Phase 3),plausibility,"wage: own-lag + expectations weights outside (0,1)",False
+B (Phase 3),plausibility,cf1: weight on cf10 or gcpi negative,False
+B (Phase 3),plausibility,cf10: weight on gcpi negative,False
+B (Phase 3),instability vs A,gw:gw changed by +0.001 (ref s.e. 0.148),False
+B (Phase 3),instability vs A,gw:cf1 changed by -0.001 (ref s.e. 0.148),False
+B (Phase 3),instability vs A,gw:vu changed by -0.019 (ref s.e. 0.232),False
+B (Phase 3),instability vs A,gw:diffcpicf changed by +0.012 (ref s.e. 0.049),False
+B (Phase 3),instability vs A,gw:magpty changed by -0.001 (ref s.e. 0.055),False
+B (Phase 3),instability vs A,gcpi:gcpi changed by +0.008 (ref s.e. 0.161),False
+B (Phase 3),instability vs A,gcpi:gw changed by -0.008 (ref s.e. 0.161),False
+B (Phase 3),instability vs A,gcpi:grpe changed by -0.001 (ref s.e. 0.018),False
+B (Phase 3),instability vs A,gcpi:grpf changed by -0.011 (ref s.e. 0.059),False
+B (Phase 3),instability vs A,gcpi:shortagema2 changed by -0.012 (ref s.e. 0.116),False
+B (Phase 3),instability vs A,gcpi:magpty changed by +0.011 (ref s.e. 0.071),False
+B (Phase 3),instability vs A,cf1:cf1 changed by +0.029 (ref s.e. 0.149),False
+B (Phase 3),instability vs A,cf1:cf10 changed by -0.029 (ref s.e. 0.125),False
+B (Phase 3),instability vs A,cf1:gcpi changed by -0.000 (ref s.e. 0.030),False
+B (Phase 3),instability vs A,cf10:cf10 changed by -0.003 (ref s.e. 0.009),False
+B (Phase 3),instability vs A,cf10:gcpi changed by +0.003 (ref s.e. 0.009),False
+B*,plausibility,"price: lagged-inflation sum outside (0,1)",False
+B*,plausibility,"price: wage pass-through outside (0,1)",False
+B*,plausibility,price: energy sum <= 0,False
+B*,plausibility,price: food sum <= 0,False
+B*,plausibility,price: shortage effect <= 0,False
+B*,plausibility,wage: V/U sum <= 0,False
+B*,plausibility,"wage: own-lag + expectations weights outside (0,1)",False
+B*,plausibility,cf1: weight on cf10 or gcpi negative,False
+B*,plausibility,cf10: weight on gcpi negative,False
+B*,instability vs A,gw:gw changed by +0.007 (ref s.e. 0.148),False
+B*,instability vs A,gw:cf1 changed by -0.007 (ref s.e. 0.148),False
+B*,instability vs A,gw:vu changed by -0.035 (ref s.e. 0.232),False
+B*,instability vs A,gw:diffcpicf changed by +0.013 (ref s.e. 0.049),False
+B*,instability vs A,gw:magpty changed by -0.004 (ref s.e. 0.055),False
+B*,instability vs A,gcpi:gcpi changed by +0.008 (ref s.e. 0.161),False
+B*,instability vs A,gcpi:gw changed by -0.008 (ref s.e. 0.161),False
+B*,instability vs A,gcpi:grpe changed by -0.001 (ref s.e. 0.018),False
+B*,instability vs A,gcpi:grpf changed by -0.011 (ref s.e. 0.059),False
+B*,instability vs A,gcpi:shortagema2 changed by -0.012 (ref s.e. 0.116),False
+B*,instability vs A,gcpi:magpty changed by +0.011 (ref s.e. 0.071),False
+B*,instability vs A,cf1:cf1 changed by +0.029 (ref s.e. 0.149),False
+B*,instability vs A,cf1:cf10 changed by -0.029 (ref s.e. 0.125),False
+B*,instability vs A,cf1:gcpi changed by -0.000 (ref s.e. 0.030),False
+B*,instability vs A,cf10:cf10 changed by -0.003 (ref s.e. 0.009),False
+B*,instability vs A,cf10:gcpi changed by +0.003 (ref s.e. 0.009),False
+C15*,plausibility,"price: lagged-inflation sum outside (0,1)",False
+C15*,plausibility,"price: wage pass-through outside (0,1)",False
+C15*,plausibility,price: energy sum <= 0,False
+C15*,plausibility,price: food sum <= 0,False
+C15*,plausibility,price: shortage effect <= 0,False
+C15*,plausibility,wage: V/U sum <= 0,False
+C15*,plausibility,"wage: own-lag + expectations weights outside (0,1)",False
+C15*,plausibility,cf1: weight on cf10 or gcpi negative,False
+C15*,plausibility,cf10: weight on gcpi negative,False
+C15*,instability vs A,gw:gw changed by -0.025 (ref s.e. 0.148),False
+C15*,instability vs A,gw:cf1 changed by +0.025 (ref s.e. 0.148),False
+C15*,instability vs A,gw:vu changed by -0.041 (ref s.e. 0.232),False
+C15*,instability vs A,gw:diffcpicf changed by +0.015 (ref s.e. 0.049),False
+C15*,instability vs A,gw:magpty changed by -0.023 (ref s.e. 0.055),False
+C15*,instability vs A,gcpi:gcpi changed by -0.103 (ref s.e. 0.161),False
+C15*,instability vs A,gcpi:gw changed by +0.103 (ref s.e. 0.161),False
+C15*,instability vs A,gcpi:grpe changed by +0.008 (ref s.e. 0.018),False
+C15*,instability vs A,gcpi:grpf changed by +0.021 (ref s.e. 0.059),False
+C15*,instability vs A,gcpi:shortagema2 changed by -0.052 (ref s.e. 0.116),False
+C15*,instability vs A,gcpi:magpty changed by +0.011 (ref s.e. 0.071),False
+C15*,instability vs A,cf1:cf1 changed by +0.004 (ref s.e. 0.149),False
+C15*,instability vs A,cf1:cf10 changed by -0.005 (ref s.e. 0.125),False
+C15*,instability vs A,cf1:gcpi changed by +0.000 (ref s.e. 0.030),False
+C15*,instability vs A,cf10:cf10 changed by -0.004 (ref s.e. 0.009),False
+C15*,instability vs A,cf10:gcpi changed by +0.004 (ref s.e. 0.009),False

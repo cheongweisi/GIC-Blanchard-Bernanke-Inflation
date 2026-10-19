@@ -1,0 +1,10 @@
+Model column,Macrobond ticker(s),Definition,Agency code,Unit,SA,Native freq,Quarterly aggregation,First obs (native),Last obs (native),"Last quarter, quarterly data",Macrobond last revision (UTC)
+CPIAUCSL,uspric2156,"CPI-U, all items, US city average",BLS CUSR0000SA0,Index 1982-84=100,SA,monthly,value of the last month of the quarter,1947-01,2026-09,2026Q3,2026-10-14 12:30
+CPIENGSL,uspric2368,"CPI-U, energy, US city average",BLS CUSR0000SA0E,Index 1982-84=100,SA,monthly,value of the last month of the quarter,1957-01,2026-09,2026Q3,2026-10-14 12:30
+CPIUFDSL,uspric2158,"CPI-U, food, US city average",BLS CUSR0000SAF1,Index 1982-84=100,SA,monthly,value of the last month of the quarter,1947-01,2026-09,2026Q3,2026-10-14 12:30
+OPHNFB,uslama0202,Nonfarm business labor productivity (output per hour),BLS PRS85006093,Index 2017=100 (authors' file: 2012=100; only growth is used),SA,quarterly,none (native quarterly),1947-01,2026-04,2026Q2,2026-08-06 12:32
+ECIWAG,uslama4604,"Employment Cost Index, wages & salaries, private industry",BLS CIS2020000000000I,Index Dec 2005=100,SA,quarterly,none (native quarterly),1980-01,2026-04,2026Q2,2026-07-31 12:30
+VOVERU,uslama1304 / uslama1795,V/U = JOLTS job openings (nonfarm total) / unemployed (16+),BLS JTS000000000000000JOL / LNS13000000,Ratio,SA,monthly,mean of the three months (complete quarters only),2000-12,2026-08,2026Q2,2026-10-02 12:30
+EXPINF1YR,usfcst0101,"Cleveland Fed expected inflation, 1 year",FRB Cleveland,Percent,NSA,monthly,value of the last month of the quarter,1982-01,2026-10,2026Q3,2026-10-14 15:41
+EXPINF10YR,usfcst0110,"Cleveland Fed expected inflation, 10 year",FRB Cleveland,Percent,NSA,monthly,value of the last month of the quarter,1982-01,2026-10,2026Q3,2026-10-14 15:41
+GSCPI,wotrad0027,NY Fed Global Supply Chain Pressure Index,FRB New York,Std. dev. from mean,n/a,monthly,mean of the three months (complete quarters only),1997-09,2026-09,2026Q3,2026-10-06 14:06

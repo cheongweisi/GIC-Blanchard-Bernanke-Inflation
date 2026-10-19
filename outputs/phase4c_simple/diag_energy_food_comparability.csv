@@ -1,0 +1,5 @@
+shock,change in own CPI component (%),"basket share (%, authors' quote)",direct arithmetic: share x change (%),model: price level after 12 quarters (%),90% band,model / direct,model effect per 1% rise in own component
+"Energy, as standardised: Brent +10%",2.869251911660431,7.4,0.21232464146287192,0.3102518957073425,"[0.22, 0.39]",1.4612147397013013,0.1081298907378963
+"Food, as standardised: CPI food +10%",10.0,14.4,1.4400000000000002,2.3813299881782735,"[1.13, 3.56]",1.6537013806793563,0.23813299881782735
+"Energy, like-for-like with food: CPI energy +10%",10.0,7.4,0.7400000000000001,1.046449923272391,"[0.75, 1.32]",1.4141215179356632,0.10464499232723909
+"Food, like-for-like with energy: CPI food +2.9%",2.869251911660431,14.4,0.4131722752791021,0.7067921222469636,"[0.33, 1.06]",1.7106475059816595,0.246333240861359

@@ -1,0 +1,5 @@
+IRF,"shock size (shipped data, 2020Q1-2023Q2 s.d.)",size in paper footnote 15,max |our replication (full-sample coefficients) - shipped file|,max |hybrid coefficients - shipped file|
+"Energy (relative price, 1 s.d.)",29.078067443305148,32.0,0.0,0.030148371521086403
+"Food (relative price, 1 s.d.)",3.8676284563525036,3.2,0.0,0.004641158755709793
+Shortage index (1 s.d.),10.066786866110936,11.6,0.0,0.016968832680570273
+"V/U (1 s.d., permanent)",0.5791137846992213,0.5,0.0,0.7865553476453955

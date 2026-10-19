@@ -1,0 +1,9 @@
+item,value
+sum own wage lags,0.5396739530600071
+sum cf1 lags (weight on expected inflation),0.46032604693999274
+sum catch-up lags,-0.0022886136043781154
+sum V/U lags,0.6722752747060019
+price eq.: sum wage lags (gross),0.8446588674180154
+cf1 eq.: sum gcpi lags,0.13563637882432378
+cf1 eq.: sum cf10 lags,0.5420531531378321
+cf10 eq.: sum gcpi lags,0.027702970165979002

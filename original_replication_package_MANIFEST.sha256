@@ -1,0 +1,210 @@
+b5e0f1d7a8c66ed5496b5d44b8f4d162bb2ebf14eb865ddea5c6e9bc6bdc2808 *./Blanchard-Bernanke 2023 paper Inflation Materials.zip
+b6870cfa3a52d42a70593c8d2f3384386be5c4d62fe394e7db3050055913d899 *./extracted/Data Citations.docx
+15fd6f382c3ae1db58da186575d7163d4c48e7ba3155c121ba5ec2f343dd8c48 *./extracted/README.pdf
+6eb637c71ffcd8248543b2e57f77ed27a1d78b0bf37a5922692be84260cbd627 *./extracted/Replication Package/Code and Data/(1) Data/Private Data/Bloomberg_Commodity_Data.xlsx
+c6484300c9cc8c4d9aee6b722211bf5e2e0ed5be45cdfba4f9eb5f815e5f7f75 *./extracted/Replication Package/Code and Data/(1) Data/Private Data/SP_GSCI.xlsx
+af6e043d6d7a04cbe72901b775592f5715b06e4bcb9438540341ab20dc59bf59 *./extracted/Replication Package/Code and Data/(1) Data/Public Data/.Rhistory
+dcc66cca9c925b6bdd9d3a8f3d4755eae29721ae23340a21b8639659dd5f5b5c *./extracted/Replication Package/Code and Data/(1) Data/Public Data/convert_to_dta.R
+6a71c9130693ea36e44e23c4444c1b883e18f7f80693e2cf3b4784c5e9158d0e *./extracted/Replication Package/Code and Data/(1) Data/Public Data/figure_6_car_data.xlsx
+1a53532c661756099a0ac3f1cebdee1023ed6e95e9d33a04709319ff1b101175 *./extracted/Replication Package/Code and Data/(1) Data/Public Data/Regression_Data.dta
+08b37f113db9d7883eff7af3a9b384eaff63ac619ff3390b5e15e81bd46deab5 *./extracted/Replication Package/Code and Data/(1) Data/Public Data/Regression_Data.xlsx
+c37e71623b0800c1f0b90aaf0f12ca3398a2cb74bcf3774d477903fe34baf358 *./extracted/Replication Package/Code and Data/(1) Data/Public Data/Shortage Alternatives/clean_shortages.R
+f333e8bd4fa9cdc5a77c4411c6962a7e8f7312c2bfd09b30e2e52d1934db331d *./extracted/Replication Package/Code and Data/(1) Data/Public Data/Shortage Alternatives/gscpi_cleaned.xlsx
+c75a980b628bb7d5748a3579c3db14644812627f7d23f8da019caa9e2a4e547e *./extracted/Replication Package/Code and Data/(1) Data/Public Data/Shortage Alternatives/gscpi_data.xls
+e39ae4c7c85bc0b9c532343e583231b50a05f5efb66ff293684a385de19da874 *./extracted/Replication Package/Code and Data/(1) Data/Public Data/SPF_data.xlsx
+7b04a0574253269947ea3517ed5cf680d27e9b0a52fba6ee408e04557ca8d318 *./extracted/Replication Package/Code and Data/(2) Regressions/Output Data (Full Sample)/eq_coefficients.xlsx
+51aee6ccd0e9ff8f53b33f8cfb250482bc0dc85931057bbcbe345bab76a0a043 *./extracted/Replication Package/Code and Data/(2) Regressions/Output Data (Full Sample)/eq_simulations_data.xls
+10122be7ccc058db835bb4144711c7cf5f5ef4229a4ce8960758427cc2a4aa51 *./extracted/Replication Package/Code and Data/(2) Regressions/Output Data (Full Sample)/summary_stats_full.xlsx
+27bd451ddf3c2bf083fb36c037f0247d1bb862f1192e81c7df15c6ee03431200 *./extracted/Replication Package/Code and Data/(2) Regressions/Output Data (Pre Covid Sample)/eq_coefficients_restricted.xlsx
+5730653a08fac2531e6869bc5f367c1663a590c24f02806b513947b877b864e4 *./extracted/Replication Package/Code and Data/(2) Regressions/Output Data (Pre Covid Sample)/eq_simulations_data_restricted.xls
+32ca2e40ed6fbf263cefd3c19ada8505eb77ff111e51a6bb0d6d7fc55513b940 *./extracted/Replication Package/Code and Data/(2) Regressions/Output Data (Pre Covid Sample)/summary_stats_restricted.xlsx
+23345267169e14bb80bdc04a22866cfd3cc29f029d10c43cd92946866f7f54da *./extracted/Replication Package/Code and Data/(2) Regressions/Predicted vs. Actual/.Rhistory
+dee5b7f9341fc6173731c8b16f3b6d8f883c2877195c49f01307eeb6a0d160e4 *./extracted/Replication Package/Code and Data/(2) Regressions/Predicted vs. Actual/Figures/cf10_equation.png
+1591bdcc9e640832791b4cb1d9ea05f998931b231e83e54a02656b57c8069618 *./extracted/Replication Package/Code and Data/(2) Regressions/Predicted vs. Actual/Figures/cf1_equation.png
+832311be97898d3e7945c9a88221ac7e6656b7b7f609829ff323c20cc657ed14 *./extracted/Replication Package/Code and Data/(2) Regressions/Predicted vs. Actual/Figures/price_equation.png
+101763110f69777663a329faf50b0eae8b9fbd0d8e11da21e4421e8c142d77e6 *./extracted/Replication Package/Code and Data/(2) Regressions/Predicted vs. Actual/Figures/wage_equation.png
+df3df75dc6bd3340b666a26c060a8b72de0be2c3be1ea69e85650fd14f5aaf0f *./extracted/Replication Package/Code and Data/(2) Regressions/Predicted vs. Actual/plot_pred_v_actual.R
+db11f6072099f4fd5fbc19ad04e26f736cc650c1e198cc02ea80892ced7ee74b *./extracted/Replication Package/Code and Data/(2) Regressions/regression_full.do
+8f4bff44cb2fd8f979e7b5106eebbaffca7d7d6ff6475a18bc76afc3ae67c07e *./extracted/Replication Package/Code and Data/(2) Regressions/regression_pre_covid.do
+34531cd27ab2123d63216702bbf3a119bfff1e8b4dc971f9b67b90f4b0f2e444 *./extracted/Replication Package/Code and Data/(3) Core Results/Conditional Forecasts/.Rhistory
+00aabbeebecc5b5c2969f679852e7ac7129221d6fbce19cb7233cd8ceab65b15 *./extracted/Replication Package/Code and Data/(3) Core Results/Conditional Forecasts/cond_forecast.m
+2765c7b2165ac70d9b95ba97d6f1124e3fecc063a3b3ae85e5a597d549f495ad *./extracted/Replication Package/Code and Data/(3) Core Results/Conditional Forecasts/Figures/conditional_forecast.png
+08ea1d3ab868b3e3da3b763f640dad18549cec3ec20e34a6657b6f628f332f52 *./extracted/Replication Package/Code and Data/(3) Core Results/Conditional Forecasts/Output Data/terminal_high.xlsx
+374ab8d8c4d8d8d52f18fab3742add03b2ba902b990d4ee5d37235014c63fb77 *./extracted/Replication Package/Code and Data/(3) Core Results/Conditional Forecasts/Output Data/terminal_low.xlsx
+9c531cc946d72f5ccb4d0c132afda4ce8e897208fcfcc99cd1dd5139ca605bb2 *./extracted/Replication Package/Code and Data/(3) Core Results/Conditional Forecasts/Output Data/terminal_mid.xlsx
+9279b924332af55f854eff92527ac9486a2dd7e0f6fbae1523cbdcd74e4ce125 *./extracted/Replication Package/Code and Data/(3) Core Results/Conditional Forecasts/plot_cf.R
+ef067dc9c0001bb2a06b5a1cc0c5b8a8aaa074cac887fcc86683b58bb8e831b2 *./extracted/Replication Package/Code and Data/(3) Core Results/Conditional Forecasts/wage_constant.pdf
+5c2d3cad74ccba885d6fcf8faebea96bac617ce2b04a72723b3b731ef1f68c3d *./extracted/Replication Package/Code and Data/(3) Core Results/Conditional Forecasts/~$ge constant derivation.docx
+275eaeb127b0b15113ca7cd58d86baba873c988b8d34bd392ccbbc02b9498812 *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/.Rhistory
+120aa549990df9d38a83aecc86b2f582311ab7def949ddbef5f0fbf189a9036e *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/decomp.m
+820e8d26fb36781081edfb8d566f91a663eacacd8a3e02dd085abbf22320d840 *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/Figures/price_decomp.png
+5b7e9b180ab2610adac150e9e9ed4b166a3fdc38c2c823d5e894b2396937fbfc *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/Figures/wage_decomp.png
+b8f74c8021055413e49bff9c72595d8be47a80f200489283127b382f5a16e79e *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/Output Data/remove_2020q2.xls
+7885c70760ac5b53b2d8512e693380a5e82a092e0c9454feaf4d7f6cd3ae6d04 *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/Output Data/remove_2020q3.xls
+0674416c355a90ef5e0b967aab37f80d36f693a5f3306faa7b43b607d2e670db *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/Output Data/remove_all.xls
+32c0090be08ae0ac2f21213c3ff05909909077baca3985aa410573afade99201 *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/Output Data/remove_grpe.xls
+31aedf6b41d6819b8da1837377e8b9caae7dac1e93bc997b61a83e30efc4ded2 *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/Output Data/remove_grpf.xls
+7fbf614887e30ec795605f12ee7eafd2fb87961e54e6cce502aff08e0096fd24 *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/Output Data/remove_magpty.xls
+cbe0fce03d22a22ca1c624d4d1d2de49a94add12fefc90979e44d7f3064b8bda *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/Output Data/remove_shortage.xls
+babe3f1ba4b38841c40757c8e5658e15578456eb0c8d56a266a943a47ed3214d *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/Output Data/remove_vu.xls
+9f7527562580f41dba2a69c09c3febc83bc42ba927506a0929356c7de4517c11 *./extracted/Replication Package/Code and Data/(3) Core Results/Decompositions/plot_decomp.R
+41297c0e84ff489d1bf7ab07553ca3856067bf2b8bd6b7382214ef91f562d427 *./extracted/Replication Package/Code and Data/(3) Core Results/IRFs/.Rhistory
+09c18c916b9cc7a19808ede7584400db512cb9c2385d0b33ce7303e2fc7ed081 *./extracted/Replication Package/Code and Data/(3) Core Results/IRFs/Figures/irf_food_energy_shortage.png
+7cc077ced350d9fb5f73d85b06d0a3e8c300833af95b238b046f28003c085235 *./extracted/Replication Package/Code and Data/(3) Core Results/IRFs/Figures/irf_vu.png
+fb250bf7354952db6f069fbe613f9a39f3ab1560f7a48837fdb24e82d1cfd258 *./extracted/Replication Package/Code and Data/(3) Core Results/IRFs/irf_simulations.m
+0e6cc40d5974670805d2e45201122afd5847510135b50119b5bc557017c91b8e *./extracted/Replication Package/Code and Data/(3) Core Results/IRFs/Output Data/results_energy.xls
+a4d66f8d3042fb293f86fb014b1108be77a4d9c38616fe7efc972d71102a4476 *./extracted/Replication Package/Code and Data/(3) Core Results/IRFs/Output Data/results_food.xls
+7e67ece779dfdb0071f781cefdd3aeaf723110d0eab23a1b281ce5eac53b0af1 *./extracted/Replication Package/Code and Data/(3) Core Results/IRFs/Output Data/results_shortage.xls
+1202437f67c48bfa14c2718c01587b9b97ee7d2dee20c8c138c15ca7e535125c *./extracted/Replication Package/Code and Data/(3) Core Results/IRFs/Output Data/results_vu.xls
+29b898b12159da8a1205c9c87702bb4fe5c34685030362175dcc1adf456261b2 *./extracted/Replication Package/Code and Data/(3) Core Results/IRFs/plot_irfs.R
+68568bc7668c05f1113cad97702b2f79e86f949be0316ad413522aee5489a409 *./extracted/Replication Package/Code and Data/(3) Core Results/IRFs/Regression_Data.dta
+b86b9267415ea05f9aa170432ade7cd55e40d440570a7fe1d611d7adb7cac98b *./extracted/Replication Package/Code and Data/(4) Other Results/PCA/.Rhistory
+6eb637c71ffcd8248543b2e57f77ed27a1d78b0bf37a5922692be84260cbd627 *./extracted/Replication Package/Code and Data/(4) Other Results/PCA/Bloomberg_Commodity_Data.xlsx
+3510fe45c2e3946d1518f3bfabe79dff39111050c9faddeab645c6f9d7613535 *./extracted/Replication Package/Code and Data/(4) Other Results/PCA/Bloomberg_Commodity_Data_Cleaned_Quarterly.xlsx
+8023fcfd2729111e839fd390f054e7e1f28c27754d400361293983d7d5dc4808 *./extracted/Replication Package/Code and Data/(4) Other Results/PCA/Figures/energy_pca.png
+b7fa0608f85b426ab68a737bc4d7bf1b128fbe98166490e96be2c87c7cec05ec *./extracted/Replication Package/Code and Data/(4) Other Results/PCA/Figures/food_pca.png
+f5f75b1cdfb74dd65d382569a5c678e077b04be6ae8f9f3ecb34b54a8c885a7a *./extracted/Replication Package/Code and Data/(4) Other Results/PCA/pca.py
+78a8ddf9710abbc5ebee945d4ef641387c6b1f7f38c2d5854e1a1f1a1e160e6e *./extracted/Replication Package/Code and Data/(4) Other Results/PCA/plot_pca.R
+c6484300c9cc8c4d9aee6b722211bf5e2e0ed5be45cdfba4f9eb5f815e5f7f75 *./extracted/Replication Package/Code and Data/(4) Other Results/PCA/SP_GSCI.xlsx
+79b129e20d822ab5d08682ee3215266c3024bdcdced02f1edcfa9ed07df8b087 *./extracted/Replication Package/Code and Data/(4) Other Results/Shortages/.Rhistory
+63c39a4246256ca4f2a00ba8ef32b5fa2a00cb54a919f782090bf13027669205 *./extracted/Replication Package/Code and Data/(4) Other Results/Shortages/plot_shortages.R
+d1474d29152a003a4968d8964fd724192320380363eb89d3e7a9558c159da973 *./extracted/Replication Package/Code and Data/(4) Other Results/Shortages/shortages.png
+3e13cc8498890e35f7f5f444fcb6b2cd5151f2d8e3b8c6eb205a9b43eb53c16a *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/driver.m
+8dae37fc0c0625c6a98c0837f3c835f3e457d66b33ac88c69079176ef0ffa6e1 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic.m
+b75e34bfdbdc84b1b2b25ee7d86b55b743331fb14628b3f97892620e31e41280 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_g1.m
+8848012d1819fc10ec10b605fadfdc7b2b3590fdfa997fb718476f2bd245672e *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_g1_nz.m
+04d9e4fd975e8397f52877b9202064c437269723024c34609ecbcd5bf486666e *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_g1_tt.m
+4e2cc5e3cfaf9c4a8618db00337da1a93e5ae8e1bae28eedd080da673286463d *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_g2.m
+a9a781ceb8513532a3094040dc5f5774b6e0842e5069ce63670a87c08a04e0fa *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_g2_tt.m
+a1a27356adc5f7e387af2c99c903a198bb697235db2b40f3db7d54fdb446ca00 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_g3.m
+1558514e59994df99420fb14607409fad2726fcce522d0982925381ea4237106 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_g3_tt.m
+68c23b2dcd8a57d87f55594b33268fe16950f3f07087ef7f09a5c7788b3e9e16 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_params_derivs.m
+0110876e1ad0d619949151b27c6b6e95ee4b0fd83c7d2e889f7f462b0734dec2 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_resid.m
+95cfb8432eb4fe925c9509645c5d5e468f33263742737cd1f96325dab4841013 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_resid_g1.m
+48317aa203cffee272b3a9feeb7f2028201bf994b17bb4dd5e2c65006a8069bf *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_resid_g1_g2.m
+60414399f91cc13df5cceef825a331a9cf3de8c77e38ec6f83e01445041f82da *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_resid_g1_g2_g3.m
+0d3549c916f2524ca42d3b42d3b27e821e68459d2632f489657a687f07c07ee7 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_resid_tt.m
+7e08d0539bb99bc0b42adc810273c0e0bfb877a12344f7dd71d9055239b4a611 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/dynamic_set_auxiliary_series.m
+5b55aaf56e068b0464ef6c372cebee21e6ca24a4c35af582d2403adcfe96b876 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/set_auxiliary_variables.m
+732321f8ecadfb58bae444b6be679e842a4e6074fec2ae7055aed17cb12f8f49 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static.m
+16b36cf3c37e56a9e2c31cdb7776d20b9a319e1464faa99125c105b702c85b78 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static_g1.m
+e9280d5a3bfad684c347ccccb53cf5fb8cf9059012ba404252453d591496db52 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static_g1_tt.m
+0537e640bca6d296321b7063bd455c664db931d2443c0a4cfa541b28a0405dea *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static_g2.m
+2f52292cb7c1b96b3f22c7f1aad29701b6be7078e46b06a7d9368f744cf27943 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static_g2_tt.m
+591e713fd286ff3b1c31940d46fa2657591e1a65bf3784a986c2a9cf69db78f2 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static_g3.m
+c58432d961e3d119c43ce2dfad60dee60292b176c936750380620bbb234f28ea *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static_g3_tt.m
+c5867614c12aa4eaa26fd6b0459871e5593d4bc1cb362b713e71a751f9c98934 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static_params_derivs.m
+b518378a1e0f374938d909807370168a746efc3fc85213fa57ec72e042f23006 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static_resid.m
+1dbe36a05ee08322b41fe4690ebafdfba3d868ae07afa4afafd31858098c032d *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static_resid_g1.m
+f57cbdc9f5c607a0801c7baaea22c4992ae839ab06bafb69adf557c89571908f *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static_resid_g1_g2.m
+22ee1fc0d9d3961864fee70925c3fd1a6fb168ad10b199f151f09fb0efb8a5ea *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static_resid_g1_g2_g3.m
+e9b61fdc834ca002adcf79a51d2d41b0982f7ea1ede2513503c9e5ddc8173c1b *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_strong/static_resid_tt.m
+95fb0a455a3923140fc3bd6f592e353b8a534d9bafa7d340143b1e1a5cfb975e *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/driver.m
+427d5de98fa5706bc67fbf01669a11b1c8526d6d33118c6d17bcc4544bd33ab4 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic.m
+cc63b967ee73d9a84c240ed0021bffe31c777cea1bc76a0ad04d54f5a545e650 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_g1.m
+8848012d1819fc10ec10b605fadfdc7b2b3590fdfa997fb718476f2bd245672e *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_g1_nz.m
+8bb7819bcb59194166f855d43533cf4e9cfdf7a0cd832fd083dc5a5e887fbb83 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_g1_tt.m
+7ed7717dde100bdffd4e71a8368394f0335a218251433162c42353855fc4b607 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_g2.m
+d5eee504ec006392120261cd022f13e992734a986e996297f881a21b261a92e9 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_g2_tt.m
+e398a58c9c62fafdc59deec5d8b9a09ee283c2895eb17bbe5c890dc84a6463d4 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_g3.m
+d8ef398472e46e7e49537a6b6cf933456d8f765d26bd2e35a014b8a353f945c4 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_g3_tt.m
+68c23b2dcd8a57d87f55594b33268fe16950f3f07087ef7f09a5c7788b3e9e16 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_params_derivs.m
+988214ec4c310ed4c6589238c7f3abfd4d81eb8b37c3fe0929e0c3aa7a34ae83 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_resid.m
+5f3ce7fa7e94bc474098a47333ef922947f2d9825e5dfcbc1331eb2932fc306d *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_resid_g1.m
+253c20a5dd4ec010bddf804786a420280dc8d40780609614b333934384bd17dc *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_resid_g1_g2.m
+418ece288372d0d774f7f1e5666a71f4e435df657a814f16173e844c417f71ee *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_resid_g1_g2_g3.m
+0d3549c916f2524ca42d3b42d3b27e821e68459d2632f489657a687f07c07ee7 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_resid_tt.m
+7e08d0539bb99bc0b42adc810273c0e0bfb877a12344f7dd71d9055239b4a611 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/dynamic_set_auxiliary_series.m
+5b55aaf56e068b0464ef6c372cebee21e6ca24a4c35af582d2403adcfe96b876 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/set_auxiliary_variables.m
+20dac9ee19aec7bc0fe4e14d1a084876b8b15737f207b9dd888c5779ff7be4a4 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static.m
+31a36f3a4449346edce09eb60a1c6e0b35b770e17ff45b0f11a90ae1275c1548 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static_g1.m
+3a27953a936a6fa56623c7380231cadfb28b8624bcc46dd58042cb9fee90514b *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static_g1_tt.m
+3e4fe497a610dd0e1aead3ac4948fdd9b5cb16cb5d7d238d175e7600f34fcf39 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static_g2.m
+0537cf99014305b225f03eda3789c81f2c26dcbe0beb7b13b4af0350513a96b0 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static_g2_tt.m
+b1e3c032720315015091c5d9a921569542330b805fb29a0ad0c15f87fd092764 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static_g3.m
+019c7c8cb71cfcb8f5076180cc7710b9ce7a5dbfb072c2ae0f9a8a9b4675ac30 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static_g3_tt.m
+c5867614c12aa4eaa26fd6b0459871e5593d4bc1cb362b713e71a751f9c98934 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static_params_derivs.m
+f014501e33775a7285e7415d78758d45d85e0988ea9f1acefc854c72ad97715b *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static_resid.m
+fb010adb61c8886d0aff24dc917ec038655d7352e232f653745134f88c6e670a *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static_resid_g1.m
+16c15d6b2021f76d5aefb5e1cac506494892d672a2340da9a9828b7b041ba4ab *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static_resid_g1_g2.m
+6b2f22e18e1a6e0a7e241ee098971625d4957c0aa52c94b4c05145ce5846efab *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static_resid_g1_g2_g3.m
+e9b61fdc834ca002adcf79a51d2d41b0982f7ea1ede2513503c9e5ddc8173c1b *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/+Simple_Eq_simulations_weak/static_resid_tt.m
+aead47ffa294533edf38c7b630c8a0401598065f93f7cfc001991d09c815798e *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/.Rhistory
+2e7d8e481af26cf17114c4fc9310ec08b17130dfef7c6a7727037674f61de690 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/plot_simple_model.R
+daa8d7f3125888a999008e060062e5fcc4766767c01aabce3bd48f2c0db6df4f *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_strong/checksum
+36c5aeae4e37dfaf187cce30b326de652c871ab7bfccc290280aaf827dbc9f3d *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_strong/graphs/Simple_Eq_simulations_strong_IRF_eta_u.eps
+2ab30f260980c1fba1e2253b9be27271666fe3979367a980aae32763232cd4e4 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_strong/graphs/Simple_Eq_simulations_strong_IRF_eta_zp.eps
+b5a9d2a5fae9e6563c79bcbc67c34dad886c9f77e14f3e27c14c350bd801c775 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_strong/graphs/Simple_Eq_simulations_strong_IRF_eta_zw.eps
+7271a107cc704eccac592a9d6780e2e82b7f5fee96b5fc05c266eec93271c8c0 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_strong/Output/Simple_Eq_simulations_strong_results.mat
+aba14c506937eb18734c28e8676d4f885d31d710fb361032c973c7de2c958921 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_strong.log
+b56b66a29a8a5319fad6b3809e43ab7a3e20f5cdbf32459f5568d0e783c0f347 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_strong.mod
+daa8d7f3125888a999008e060062e5fcc4766767c01aabce3bd48f2c0db6df4f *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_weak/checksum
+8449caf8f081850e9671db759eea3e998512a7d1fc75a9099a62d18b60b3891e *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_weak/graphs/Simple_Eq_simulations_weak_IRF_eta_u.eps
+73f84f7a1f80951ec03cc02a8a0098495901297fd7caa38e857cd724892758fb *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_weak/graphs/Simple_Eq_simulations_weak_IRF_eta_zp.eps
+1b9acca92bb5b63802e2dcd9f2c1cb7c4430baf1fcbd22bf202a05b518e359eb *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_weak/graphs/Simple_Eq_simulations_weak_IRF_eta_zw.eps
+d01266bc36c9eaa2aff1eb3545818dfd30fcc96223c2ef069d76ba8e33bbca8b *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_weak/Output/Simple_Eq_simulations_weak_results.mat
+b446602b8e45bb3f69ca76792be8cb6fe84b2c7f95acf1b08f8c05f0b7e81dd0 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_weak.log
+6e277b1a3c2a482271a8cf6a32607bbf6c31b9d1b22552ee2aa4f4f3b8539cb4 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Eq_simulations_weak.mod
+43d0b56af762f07f757cc0ffa5f6728b179e9df12922f743287362eef45c13c0 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Code/Simple_Model.m
+a22da7d8eedb741f0ce5a15c67f847432555d6f880f9bddecd45143e14baaa41 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Output/figure_1.png
+24302fe29a5500fa8640abb41fbb254ba0ce94e68a67c2041207ccfafbd57811 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Output/figure_2.png
+fb7acd942395a36bf69c2a8364a7ca8f8f3b3af7b10ef6464df5f99e2949a772 *./extracted/Replication Package/Code and Data/(4) Other Results/Simple Model/Output/simple_model_irf_results.xls
+ba0d53c6bbc09ef4c5e25e9dac7175229746b5363eedc981a5182b0636bbf5a4 *./extracted/Replication Package/Code and Data/(5) Appendix/Bernanke Blanchard Online Appendix.docx
+27264bbd5d307ffbf6c4aa5099f62d82456fa3742a57883d9cd1614441dd8769 *./extracted/Replication Package/Code and Data/(5) Appendix/Nonlinear V_U/nonlinear_vu.do
+eb436d5bb1a27ae8c8ae0a34f9fc4e7070d50a05e006e06d47d9e4c98667c4a5 *./extracted/Replication Package/Code and Data/(5) Appendix/Nonlinear V_U/specification_1.png
+4b4cbd7e610986fdc3c6b8b48d173aaa13ad8198fcba31394c152f19501b0cfd *./extracted/Replication Package/Code and Data/(5) Appendix/Nonlinear V_U/specification_2.doc
+06f2e304c411787080907f96fc9f2a3387b70acf2d394354f75533fe1da75bfb *./extracted/Replication Package/Code and Data/(5) Appendix/Nonlinear V_U/specification_2.png
+f6b07fe829203d0f8b7d8ffdfa12c8a46b4c203ae2a316d26c83f1742881f183 *./extracted/Replication Package/Code and Data/(5) Appendix/Nonlinear V_U/specification_3.png
+e63d2c0438f54ac097c88799f35a5fef33baf945c03a81fad5e4da74a080ab69 *./extracted/Replication Package/Code and Data/(5) Appendix/PCE Regression/eq_coefficients_pce.xlsx
+7a13ded7e4809ea6583ca95ecb5d7ce6039b842c0609d393bc22479d0c6f2e36 *./extracted/Replication Package/Code and Data/(5) Appendix/PCE Regression/eq_simulations_data_pce.xls
+2e20fa0a2c88276d37cf1cb3f52d7fca1b5dd43bdc4e187de663d7f4f8515ccf *./extracted/Replication Package/Code and Data/(5) Appendix/PCE Regression/regression_pce.do
+5988744595b537358cd68cc685c08bb563bef0c399f04ed84cd68237164e7f45 *./extracted/Replication Package/Code and Data/(5) Appendix/PCE Regression/summary_stats_pce.xlsx
+acc8571f0f019b8a794448b1d9e72dff7c4b0dcd962c868d31258c413391bbbb *./extracted/Replication Package/Code and Data/(5) Appendix/Shortage Alternatives/.Rhistory
+2ba9f603e46498e31abdbbedebf10ecab0c1966ae77cddef9b4b4c92b01158e2 *./extracted/Replication Package/Code and Data/(5) Appendix/Shortage Alternatives/alternative_shortages.do
+bf25095e91ff8567d796a608c319955156fad858754d20cf9896c7269cbdc1da *./extracted/Replication Package/Code and Data/(5) Appendix/Shortage Alternatives/eq_coefficients.xlsx
+06538a57f91baa01b83ec303694e2baa3ca1c5171d25dad2d3f90d4e2bfa3dd4 *./extracted/Replication Package/Code and Data/(5) Appendix/Shortage Alternatives/ny_fed_reg.doc
+56f2885c258304686a7e050e9f2eae208f45c280cd7c579bf3b6de7e9750dfcf *./extracted/Replication Package/Code and Data/(5) Appendix/Shortage Alternatives/summary_stats.xlsx
+d6b8929f633535a43a9d7600d2b4ad77a4215fe974a8e36e930ab5eecd2b72b9 *./extracted/Replication Package/Code and Data/(5) Appendix/SPF Regression/eq_coefficients_spf.xlsx
+ffcd9d0bfbba067f01dd75465ec76f481cd42f40802b70c0d8a5da444466a3e0 *./extracted/Replication Package/Code and Data/(5) Appendix/SPF Regression/eq_simulations_data_spf.xls
+5a4b7e73458b2afc47c2d147aecb1fd22f54a3a8a1a6cb1c3862d3c552795714 *./extracted/Replication Package/Code and Data/(5) Appendix/SPF Regression/regression_spf.do
+7d4c90e3feccb5b627d138781e51be3848221e0c13d63ce9aab801e933d49fb8 *./extracted/Replication Package/Code and Data/(5) Appendix/SPF Regression/summary_stats_spf.xlsx
+5c2d3cad74ccba885d6fcf8faebea96bac617ce2b04a72723b3b731ef1f68c3d *./extracted/Replication Package/Code and Data/(5) Appendix/SPF Regression/~$f10_equation.doc
+ea6816b8dfb48827330d41d67e0045e72b2cad1b2cf86cdf51f2f10dc681bd14 *./extracted/Replication Package/Code and Data/(5) Appendix/V_U in the price equation/eq_coefficients.xlsx
+81b877ce855bcfcf59ea46c3e911ced185a3ef865b56c6491d650874c55fe04d *./extracted/Replication Package/Code and Data/(5) Appendix/V_U in the price equation/eq_simulations_data.xls
+8b8162a6261dcc943cacdba3d7ed76403d7a363158c217c350b746c4477df009 *./extracted/Replication Package/Code and Data/(5) Appendix/V_U in the price equation/summary_stats.xlsx
+7d5ec5351cd3ec12341a3d60156c5fc0fbc9c8d301b8a2954da06dedc51860c5 *./extracted/Replication Package/Code and Data/(5) Appendix/V_U in the price equation/v_u_price.do
+ef067dc9c0001bb2a06b5a1cc0c5b8a8aaa074cac887fcc86683b58bb8e831b2 *./extracted/Replication Package/Code and Data/(5) Appendix/wage_constant.pdf
+426c3a5b8299c8c9d403a0ff2905476fe18bdff708b172a44a549803d8ccd24a *./extracted/Replication Package/Figures/PDF/figure_1.pdf
+b457ae08be31924d1a0fc85a7d4cfa7fa6cd3438af9276035832119ea013fe12 *./extracted/Replication Package/Figures/PDF/figure_10.pdf
+ef39883c425f62b6b05b993f18b769118fa0e25663bb2156b2bd8085cfb71c07 *./extracted/Replication Package/Figures/PDF/figure_11.pdf
+cb0e9fda97c2b41976a3b73ddac555e79fd8d654199bb39a604a618f08b29010 *./extracted/Replication Package/Figures/PDF/figure_12.pdf
+b740dc36cb392d2fd194be272dbe0880072a2003656f291754d8218cb826aceb *./extracted/Replication Package/Figures/PDF/figure_13.pdf
+67ecf7e670ae0d8641c915413b514fa4c71e6b26c8acc2532b9a009e03af894a *./extracted/Replication Package/Figures/PDF/figure_14.pdf
+a105a8f8896a4f9d147959e8a3e6acab838ecc04105a0df57525f930cb297a58 *./extracted/Replication Package/Figures/PDF/figure_2.pdf
+45bec614a0032219a6fec4d6c8cc59714bb9760e918ba5301e151ca0a353a1b2 *./extracted/Replication Package/Figures/PDF/figure_3.pdf
+87e9fd5356b9ecd5b8f1c0e9a2f324212ef97c871dff403e751a8cfac355bf36 *./extracted/Replication Package/Figures/PDF/figure_4.pdf
+13fff192e915445e8512cce880c00de24655aee0e2bb785987e97a2244fbf1f5 *./extracted/Replication Package/Figures/PDF/figure_5.pdf
+e30cf3889cad12342edf1fe7a6a47bdb6b0d006832fb74e4ab4ea2bfcfac3cf0 *./extracted/Replication Package/Figures/PDF/figure_6.pdf
+9a001136f14dcb60c5280b211eb73211e02fe8f18bf7e559281f99f3ac82919c *./extracted/Replication Package/Figures/PDF/figure_7.pdf
+9c5a3b682c8235729f081543b6529a00e888d46908b80d35154e3361db7c11db *./extracted/Replication Package/Figures/PDF/figure_8.pdf
+1a23863d1dde5b961dedcbee52f155f4de25d12cce7164ae54ecb8d12970d08b *./extracted/Replication Package/Figures/PDF/figure_9.pdf
+a22da7d8eedb741f0ce5a15c67f847432555d6f880f9bddecd45143e14baaa41 *./extracted/Replication Package/Figures/PNG/figure_1.png
+09c18c916b9cc7a19808ede7584400db512cb9c2385d0b33ce7303e2fc7ed081 *./extracted/Replication Package/Figures/PNG/figure_10.png
+7cc077ced350d9fb5f73d85b06d0a3e8c300833af95b238b046f28003c085235 *./extracted/Replication Package/Figures/PNG/figure_11.png
+820e8d26fb36781081edfb8d566f91a663eacacd8a3e02dd085abbf22320d840 *./extracted/Replication Package/Figures/PNG/figure_12.png
+5b7e9b180ab2610adac150e9e9ed4b166a3fdc38c2c823d5e894b2396937fbfc *./extracted/Replication Package/Figures/PNG/figure_13.png
+2765c7b2165ac70d9b95ba97d6f1124e3fecc063a3b3ae85e5a597d549f495ad *./extracted/Replication Package/Figures/PNG/figure_14.png
+24302fe29a5500fa8640abb41fbb254ba0ce94e68a67c2041207ccfafbd57811 *./extracted/Replication Package/Figures/PNG/figure_2.png
+101763110f69777663a329faf50b0eae8b9fbd0d8e11da21e4421e8c142d77e6 *./extracted/Replication Package/Figures/PNG/figure_3.png
+8023fcfd2729111e839fd390f054e7e1f28c27754d400361293983d7d5dc4808 *./extracted/Replication Package/Figures/PNG/figure_4.png
+b7fa0608f85b426ab68a737bc4d7bf1b128fbe98166490e96be2c87c7cec05ec *./extracted/Replication Package/Figures/PNG/figure_5.png
+d1474d29152a003a4968d8964fd724192320380363eb89d3e7a9558c159da973 *./extracted/Replication Package/Figures/PNG/figure_6.png
+832311be97898d3e7945c9a88221ac7e6656b7b7f609829ff323c20cc657ed14 *./extracted/Replication Package/Figures/PNG/figure_7.png
+1591bdcc9e640832791b4cb1d9ea05f998931b231e83e54a02656b57c8069618 *./extracted/Replication Package/Figures/PNG/figure_8.png
+dee5b7f9341fc6173731c8b16f3b6d8f883c2877195c49f01307eeb6a0d160e4 *./extracted/Replication Package/Figures/PNG/figure_9.png
+15fd6f382c3ae1db58da186575d7163d4c48e7ba3155c121ba5ec2f343dd8c48 *./extracted/Replication Package/README.pdf
+7fac55437905ae79b5eac81a79ced5de8d84efc17a5a9c986c32a3899be4edd7 *./extracted/Replication Package/Tables/bb_tables_main.docx
+4020e146895cf6cc1f51c9544dc4b85cf7373cf82b0aea9f45dd299387820449 *./extracted/Replication Package/Tables/~$_tables_appendix.docx
+5c2d3cad74ccba885d6fcf8faebea96bac617ce2b04a72723b3b731ef1f68c3d *./extracted/Replication Package/~$README.rtf
+c2e5c2fd0427bfa5872c28bf71fcc42f5c17e71b8b890cfd81ac00ac80426bb0 *./supplemental/Blanchard-Bernanke 2023 paper Inflation Supplemental Appendix.pdf
+dffa44f885c1cf2c1ce048d5d4a51f06b84116940f49568ce0ae90c7b1292f12 *./supplemental/NBER_w31417_paper.pdf

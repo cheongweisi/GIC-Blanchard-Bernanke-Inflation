@@ -1,0 +1,14 @@
+id,shock,family,type,size,unit,definition,headline
+W1,Wage equation shock +1pp (one quarter),wage,impulse,1.0,pp,additive residual in the wage equation at h=0,True
+W2,Sustained wage path +1pp (exogenous),wage,sustained,1.0,pp,wage growth held 1pp above baseline every quarter from h=0 (wage equation switched off): a different exercise from W1,True
+O10,Brent +10% (sustained level shift),oil,sustained,10.0,%,"Brent 10% higher from the first month of h=0, no reversal",True
+O30,Brent +30% (sustained level shift),oil,sustained,30.0,%,"log points 26.2, not 3 x 9.5",True
+O10T,"Brent +10% for four quarters, then reverses",oil,episode,10.0,%,temporary episode; supplementary,False
+O30T,"Brent +30% for four quarters, then reverses",oil,episode,30.0,%,temporary episode; supplementary,False
+V1,V/U +0.5 (sustained level shift),labour,sustained,0.5,ratio,"permanent level shift, as the authors' V/U IRF",True
+V1P,V/U +0.5 (one quarter),labour,impulse,0.5,ratio,impulse; different exercise from V1,True
+G1,GSCPI +1 s.d. (one quarter),supply,impulse,0.9690795123370598,GSCPI units,impulse (the authors' shortage IRF convention),True
+G1S,GSCPI +1 s.d. (sustained level shift),supply,sustained,0.9690795123370598,GSCPI units,permanent; a stress test (the price equation takes GSCPI in levels),True
+E1,1-year expectations +1pp (one quarter),expectations,impulse,1.0,pp,additive residual in the cf1 equation at h=0,True
+E10,10-year expectations +1pp (one quarter),expectations,impulse,1.0,pp,additive residual in the cf10 equation at h=0,True
+P1,CPI price-equation shock +1pp (one quarter),price,impulse,1.0,pp,supplementary: second-round effects of a price surprise,False

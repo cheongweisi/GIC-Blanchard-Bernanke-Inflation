@@ -1,0 +1,3 @@
+tier,Phase 3 mode,n compared,max |difference| (pp)
+A,conditional,930,1.7763568394002505e-15
+F,unconditional,930,8.881784197001252e-16

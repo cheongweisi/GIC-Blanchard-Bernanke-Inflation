@@ -1,0 +1,6 @@
+bridge error pattern,y/y effect at 4q (pp),y/y effect at 8q (pp),price level effect at 12q (%)
+"2022 realised out-of-sample errors (2022Q1-Q4, ann. pp: +16, +18, -27, +0)",0.17783266854855873,0.011625431657850238,0.20780606087324782
+"2026 realised out-of-sample errors (2026Q1-Q3, ann. pp: +3, -12, +15)",0.13851780261613467,0.005532530526281776,0.15376773395290821
++10 pp ann. CPI energy for four quarters,0.8974718409107559,0.04700056821920384,1.019976741639855
+-10 pp ann. CPI energy for four quarters,-0.9910379136082542,-0.05175264593846196,-1.1262906847071283
+"expected reversal of the 2026Q3 level error (AR(4) of bridge errors; ann. pp: -4.4, -2.1, +3.2, -2.9)",-0.14730679064055718,0.02380717739319982,-0.1351983230270547

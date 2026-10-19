@@ -1,0 +1,8 @@
+item,value
+estimated wage constant (annualised pp per quarter),-0.31200902271409575
+"authors' neutral wage constant at V/U 1.02, productivity 2.14, GSCPI -0.035",-0.606183743755472
+gap (estimated - neutral),0.29417472104137626
+sum of V/U coefficients,0.6722752747060019
+sum of own wage lags (the wage equation's persistence),0.5396739530600071
+gap expressed as V/U units (gap / sum of V/U coefficients),0.43758075316695855
+V/U at which the estimated constant is neutral (no drift),0.5867602039378454

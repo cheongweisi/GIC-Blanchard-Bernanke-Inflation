@@ -1,0 +1,4 @@
+pull_id,retrieved_utc,note
+pull_20261016T061219Z,2026-10-16T06:12:19.266633+00:00,migrated from the Phase-2 'current' cache; quarterly data only (native series not stored)
+pull_20261017T092323Z,2026-10-17T09:23:23.874718+00:00,validation-phase test of explicit refresh; NOT activated
+pull_20261017T112636Z,2026-10-17T11:26:36.424768+00:00,Phase 3: fresh pull of all model series for the 2026 extension

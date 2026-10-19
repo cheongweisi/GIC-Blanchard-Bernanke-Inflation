@@ -1,0 +1,15 @@
+check,result
+pinned Phase 3 pull passes SHA-256 integrity check,yes
+pinned pull retrieved (UTC),2026-10-17T11:26:36
+supplement re-pull retrieved (UTC),2026-10-18T03:20:16
+Macrobond series / description,"wotrad0027: World, Foreign Trade, Global Supply Chain Pressure Index, Total, Index"
+Macrobond LastRevisionTimeStamp (pinned / re-pull),2026-10-06 14:06:31 / 2026-10-06 14:06:31
+first / last monthly observation,1997-09-01 / 2026-09-01
+observations revised between pinned pull and re-pull,0
+new observations in re-pull,0
+missing months between first and last observation,0
+quarterly mean 2026Q2 used in model (Phase 3 dataset),1.5994
+quarterly mean 2026Q2 recomputed from monthly pull,1.5994
+last complete quarter in model,2026Q2
+"2026Q3 monthly GSCPI observed, not used (quarter incomplete for other series)","2026-07=0.928, 2026-08=1.199, 2026-09=1.284"
+external cross-check (press reports of NY Fed release of 6 Oct 2026; not a download),Sep 2026 = 1.28 (pull 1.284); Aug revised to 1.20 (pull 1.199); May peak 1.81 (pull 1.808); release date 6 Oct 2026 = Macrobond revision stamp 2026-10-06

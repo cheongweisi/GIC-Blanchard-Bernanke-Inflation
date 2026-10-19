@@ -1,0 +1,37 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx4176
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx4176
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx4176
+\ql VARIABLES\cell\qc Specification 2\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx4176
+\ql \cell\qc \cell\row
+\ql gw\cell\qc \cell\row
+\ql \cell\qc \cell\row
+\ql \cell\qc \cell\row
+\ql vu\cell\qc 1.072***\cell\row
+\ql \cell\qc (0.365)\cell\row
+\ql \cell\qc 0.00389\cell\row
+\ql interact_vu\cell\qc -0.244\cell\row
+\ql \cell\qc (0.252)\cell\row
+\ql \cell\qc 0.335\cell\row
+\ql L.gw\cell\qc 0.530***\cell\row
+\ql \cell\qc (0.0722)\cell\row
+\ql \cell\qc 0\cell\row
+\ql dummyq2_2020\cell\qc -1.765**\cell\row
+\ql \cell\qc (0.804)\cell\row
+\ql \cell\qc 0.0300\cell\row
+\ql dummyq3_2020\cell\qc 0.246\cell\row
+\ql \cell\qc (0.796)\cell\row
+\ql \cell\qc 0.758\cell\row
+\ql Constant\cell\qc 0.777***\cell\row
+\ql \cell\qc (0.232)\cell\row
+\ql \cell\qc 0.00108\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 137\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx4176
+\ql R-squared\cell\qc 0.523\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

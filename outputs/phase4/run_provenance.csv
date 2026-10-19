@@ -1,0 +1,6 @@
+,value
+phase4_pull,p4_20261018T051241Z
+futures_date,2026-10-16
+model,"B* (unweighted, gscpi_ma2, V/U 2025Q4 bridged), 1990Q1-2026Q2"
+draws,1000
+information_set,"nowcast (2026Q3 CPI, expectations, energy, food, GSCPI published)"

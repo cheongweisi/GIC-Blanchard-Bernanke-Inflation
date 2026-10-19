@@ -1,0 +1,6 @@
+observation,status,found in
+"Unemployment level, Oct 2025 (SA, NSA, rate)",does not exist: CPS October 2025 never collected (BLS),"BLS CPS (bls_lns13000000m), Macrobond uslama1795/2169/1849/2320: all blank"
+"JOLTS openings, Oct/Nov/Dec 2025",actual,Macrobond uslama1304 (BLS JTS000000000000000JOL)
+"Unemployment level, Sep/Nov/Dec 2025",actual,Macrobond uslama1795
+V/U 2025Q4,ESTIMATED (one component: October unemployment level),"bridge, see vu_bridge_alternatives.csv"
+All other quarters 1990Q1-2026Q2,"actual (authors' history to 2000Q4, Macrobond after)",pinned Phase 3 pull

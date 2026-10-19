@@ -1,0 +1,3 @@
+episode,actual CPI energy level change (%),bridge out-of-sample level change (%),cumulative level error (%),x 0.075 weight = headline price level (%)
+2022Q1-2022Q4,6.653494799734361,4.898405241919297,1.7550895578150638,0.1316317168361298
+2026Q1-2026Q3 (Q3 bridge out-of-sample),16.78783900333949,15.294467248675751,1.4933717546637388,0.1120028815997804

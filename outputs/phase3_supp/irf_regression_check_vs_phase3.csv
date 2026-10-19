@@ -1,0 +1,8 @@
+new scenario,Phase 3 IRF,max abs difference (pp)
+V/U temporary,V/U temporary,0.0
+V/U permanent,V/U permanent,0.0
+GSCPI temporary,GSCPI temporary,0.0
+GSCPI permanent,GSCPI permanent,0.0
+GSCPI persistent,GSCPI persistent (rho 0.8),5.551115123125783e-17
+Energy permanent,Energy one-off (level),0.0
+Food permanent,Food one-off (level),0.0

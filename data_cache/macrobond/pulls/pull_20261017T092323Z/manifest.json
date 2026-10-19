@@ -1,0 +1,169 @@
+{
+  "pull_id": "pull_20261017T092323Z",
+  "retrieved_utc": "2026-10-17T09:23:23.874718+00:00",
+  "note": "validation-phase test of explicit refresh; NOT activated",
+  "macrobond_data_api": "unknown",
+  "python": "3.12.7",
+  "host": "CWS_ASUS",
+  "series": {
+    "uspric2156": {
+      "first_obs": "1947-01-01",
+      "last_obs": "2026-09-01",
+      "n": 956,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:19.243000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, All Items, SA, Index"
+    },
+    "uspric2368": {
+      "first_obs": "1957-01-01",
+      "last_obs": "2026-09-01",
+      "n": 836,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:21.226000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, Energy, SA, Index"
+    },
+    "uspric2158": {
+      "first_obs": "1947-01-01",
+      "last_obs": "2026-09-01",
+      "n": 956,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 12:30:19.299000+00:00",
+      "description": "United States, Consumer Price Index, All Urban Consumers, U.S. City Average, Food & Beverages, Food, SA, Index"
+    },
+    "uslama0202": {
+      "first_obs": "1947-01-01",
+      "last_obs": "2026-04-01",
+      "n": 318,
+      "frequency": "quarterly",
+      "macrobond_last_revision": "2026-08-06 12:32:15.321000+00:00",
+      "description": "United States, Productivity, Costs & Hours Worked, Labor Productivity & Costs, Nonfarm Business, Labor Productivity (Output Per Hour), SA, Index"
+    },
+    "uslama4604": {
+      "first_obs": "1980-01-01",
+      "last_obs": "2026-04-01",
+      "n": 186,
+      "frequency": "quarterly",
+      "macrobond_last_revision": "2026-07-31 12:30:30.143000+00:00",
+      "description": "United States, Productivity, Costs & Hours Worked, Employment Cost Index, Wages & Salaries, Private Industry, All Workers, Current Prices, SA, Index"
+    },
+    "uslama1304": {
+      "first_obs": "2000-12-01",
+      "last_obs": "2026-08-01",
+      "n": 309,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-09-29 14:00:54.879000+00:00",
+      "description": "United States, Labor Market Dynamics, Labor Turnover, Openings (Worker Flows), Nonfarm, Total, SA"
+    },
+    "uslama1795": {
+      "first_obs": "1948-01-01",
+      "last_obs": "2026-09-01",
+      "n": 944,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-02 12:30:18.013000+00:00",
+      "description": "United States, Unemployment, National, 16 Years & Over, SA"
+    },
+    "usfcst0101": {
+      "first_obs": "1982-01-01",
+      "last_obs": "2026-10-01",
+      "n": 538,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 15:41:36.082000+00:00",
+      "description": "United States, Federal Reserve Bank of Cleveland, Inflation Expectations, Expected Inflation, Estimate, 1 Year"
+    },
+    "usfcst0110": {
+      "first_obs": "1982-01-01",
+      "last_obs": "2026-10-01",
+      "n": 538,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-14 15:41:36.091000+00:00",
+      "description": "United States, Federal Reserve Bank of Cleveland, Inflation Expectations, Expected Inflation, Estimate, 10 Year"
+    },
+    "wotrad0027": {
+      "first_obs": "1997-09-01",
+      "last_obs": "2026-09-01",
+      "n": 349,
+      "frequency": "monthly",
+      "macrobond_last_revision": "2026-10-06 14:06:31.051000+00:00",
+      "description": "World, Foreign Trade, Global Supply Chain Pressure Index, Total, Index"
+    }
+  },
+  "registry": {
+    "CPIAUCSL": {
+      "tickers": [
+        "uspric2156"
+      ],
+      "agg": "last",
+      "source_code": "BLS CUSR0000SA0"
+    },
+    "CPIENGSL": {
+      "tickers": [
+        "uspric2368"
+      ],
+      "agg": "last",
+      "source_code": "BLS CUSR0000SA0E"
+    },
+    "CPIUFDSL": {
+      "tickers": [
+        "uspric2158"
+      ],
+      "agg": "last",
+      "source_code": "BLS CUSR0000SAF1"
+    },
+    "OPHNFB": {
+      "tickers": [
+        "uslama0202"
+      ],
+      "agg": "native",
+      "source_code": "BLS PRS85006093"
+    },
+    "ECIWAG": {
+      "tickers": [
+        "uslama4604"
+      ],
+      "agg": "native",
+      "source_code": "BLS CIS2020000000000I"
+    },
+    "VOVERU": {
+      "tickers": [
+        "uslama1304",
+        "uslama1795"
+      ],
+      "agg": "mean",
+      "source_code": "BLS JTS000000000000000JOL / LNS13000000"
+    },
+    "EXPINF1YR": {
+      "tickers": [
+        "usfcst0101"
+      ],
+      "agg": "last",
+      "source_code": "FRB Cleveland"
+    },
+    "EXPINF10YR": {
+      "tickers": [
+        "usfcst0110"
+      ],
+      "agg": "last",
+      "source_code": "FRB Cleveland"
+    },
+    "GSCPI": {
+      "tickers": [
+        "wotrad0027"
+      ],
+      "agg": "mean",
+      "source_code": "FRB New York"
+    }
+  },
+  "sha256": {
+    "native/usfcst0101.csv": "f4630321dbc3bd43d67309c37b80210f8a76d80b9631d1362f1bcbd7cde6893b",
+    "native/usfcst0110.csv": "01698479a85365bd7238e3174b5e7acdea409c7f3ddfa97fe7c48bb8817746f2",
+    "native/uslama0202.csv": "e44f883ecbacba320f43a96cf7d7a891603245767e698d826e9172390f44b2c2",
+    "native/uslama1304.csv": "25b261db8874baeac2a722b32e47e06a0f63f740819bfc4ddee1be82f9c58cfe",
+    "native/uslama1795.csv": "10ab60d165be6c5ea6461f69e8da5c631348afadee0286c15185758d76f2027a",
+    "native/uslama4604.csv": "26d5bcf4753e235d23044a609ad9f473176ee557d552dd028aac4bec3cf5c2b0",
+    "native/uspric2156.csv": "7132de787a22d01a2e588b84c435a7f4fe472a12586e3847b1d06ca56316e2f8",
+    "native/uspric2158.csv": "bcbb2a5ec882eb3c2797314a4a2815a644d5a5a8667ef928ed5f62e56e361170",
+    "native/uspric2368.csv": "f3eeecb499b070f9c0a2a94e323b5fed45c4abf5ac0f02dda1c5a3fdabb6f92a",
+    "native/wotrad0027.csv": "8eb57ce0178a19c4713b8ed74c36acbad796a6bf22d789ca2f89326fb03efc03",
+    "quarterly_raw.csv": "662280702e9b6a7dbf5aac72a13aadcd916f2d6ae67f50f18dd7cc094f0f2995"
+  }
+}

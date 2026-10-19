@@ -1,0 +1,9 @@
+regression,regressor,coef,s.e.,n
+next quarter's error on last quarter's,l1,-0.2773324610055794,0.08505345432841575,142
+on last two quarters' (separately),l1,-0.3373743420254088,0.1121056073396337,142
+on last two quarters' (separately),l2,-0.2116537694657416,0.08285299596846361,142
+on last four quarters' (separately),l1,-0.32518129393562945,0.10644986911968063,142
+on last four quarters' (separately),l2,-0.23527224043307116,0.08954071482675086,142
+on last four quarters' (separately),l3,-0.02844050670123576,0.05955826887896633,142
+on last four quarters' (separately),l4,-0.1672742103712369,0.0669830869109394,142
+"monthly residual autocorrelation (lags 1, 2, 3, 6, 12)","0.07, -0.23, -0.12, -0.05, -0.12",,,436

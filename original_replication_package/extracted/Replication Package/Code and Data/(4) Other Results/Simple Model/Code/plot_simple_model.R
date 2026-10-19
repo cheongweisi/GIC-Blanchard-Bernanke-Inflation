@@ -1,0 +1,91 @@
+# This graphs the simple model. 
+
+library(tidyverse)
+library(magrittr)
+library(ggplot2)
+library(zoo)
+library(tseries)
+library(readxl)
+library(grid)
+library(lubridate)
+library(reshape2)
+
+setwd("../Replication Package/Code and Data/(4) Other Results/Simple Model/Output/")
+
+############################
+# Weak and Strong Feedback #
+############################
+weak_response <- read_excel("simple_model_irf_results.xls", sheet = "Weak_Response")
+strong_response <- read_excel("simple_model_irf_results.xls", sheet = "Strong_Response")
+
+# For some reason, the entire path is scale by a factor of three. 
+weak_response %<>% mutate(p_eta_u = p_eta_u * 3)
+strong_response %<>% mutate(p_eta_u = p_eta_u * 3)
+
+# Remove the last four periods.
+weak_response %<>% filter(period <= 16)
+strong_response %<>% filter(period <= 16)
+
+# Plot Figure 1. 
+ggplot() +
+  labs(x = "Quarter", y = "Percent") + 
+  geom_line(data = weak_response, mapping = aes(x = period, y = p_eta_zp, color = "Weak Feedback"), linewidth = 1.25) +
+  geom_line(data = strong_response, mapping = aes(x = period, y = p_eta_zp, color = "Strong Feedback"), linewidth = 1.25) +
+  scale_colour_manual("", 
+                      breaks = c("Weak Feedback", "Strong Feedback"),
+                      values = c("darkblue", "darkred")) +
+  theme_bw() + theme(legend.position = "bottom",
+                     # legend.key.size = unit(3, 'cm'), #change legend key size
+                     legend.key.height = unit(.5, 'cm'), #change legend key height
+                     legend.key.width = unit(2, 'cm'), #change legend key width
+                     legend.text = element_text(size=16), # change legend key font size
+                     legend.background = element_rect(colour = 'black', fill = 'white', linetype='solid'),
+                     legend.title = element_text(angle = 90, hjust = .5, vjust = 0.5),
+                     plot.title = element_text(size=17.5),
+                     panel.grid.major.x = element_blank(),
+                     panel.grid.minor.x = element_blank(),
+                     panel.grid.minor.y = element_blank(),
+                     axis.line = element_line("black"),
+                     axis.title.x = element_text(size = 16), 
+                     axis.title.y = element_text(size = 16), 
+                     axis.text.x = element_text(size=16, color = "black"),
+                     axis.text.y = element_text(size=16, color = "black"),
+                     panel.border = element_blank(), 
+                     plot.caption = element_text(hjust = 0),
+                     plot.margin=unit(c(0.01,0.01,0.01,.01), "null"), 
+  ) + coord_fixed(4.5) +
+  scale_x_continuous(breaks = c(1:16)) +
+  scale_y_continuous(limits = c(0.0, 1.02), expand = c(.05, .01), breaks = seq(from = 0, to = 1, by = .2))
+
+
+# Plot Figure 2. 
+ggplot() +
+  labs(x = "Quarter", y = "Percent") + 
+  geom_line(data = weak_response, mapping = aes(x = period, y = p_eta_u, color = "Weak Feedback"), linewidth = 1.25) +
+  geom_line(data = strong_response, mapping = aes(x = period, y = p_eta_u, color = "Strong Feedback"), linewidth = 1.25) +
+  scale_colour_manual("", 
+                      breaks = c("Weak Feedback", "Strong Feedback"),
+                      values = c("darkblue", "darkred")) +
+  theme_bw() + theme(legend.position = "bottom",
+                     # legend.key.size = unit(3, 'cm'), #change legend key size
+                     legend.key.height = unit(.5, 'cm'), #change legend key height
+                     legend.key.width = unit(2, 'cm'), #change legend key width
+                     legend.text = element_text(size=16), # change legend key font size
+                     legend.background = element_rect(colour = 'black', fill = 'white', linetype='solid'),
+                     legend.title = element_text(angle = 90, hjust = .5, vjust = 0.5),
+                     plot.title = element_text(size=17.5),
+                     panel.grid.major.x = element_blank(),
+                     panel.grid.minor.x = element_blank(),
+                     panel.grid.minor.y = element_blank(),
+                     axis.line = element_line("black"),
+                     axis.title.x = element_text(size = 16), 
+                     axis.title.y = element_text(size = 16), 
+                     axis.text.x = element_text(size=16, color = "black"),
+                     axis.text.y = element_text(size=16, color = "black"),
+                     panel.border = element_blank(), 
+                     plot.caption = element_text(hjust = 0),
+                     plot.margin=unit(c(0.01,0.01,0.01,.01), "null"), 
+  ) + coord_fixed(3.25) +
+  scale_x_continuous(breaks = c(1:16)) +
+  scale_y_continuous(limits = c(0.5, 2.05), expand = c(.05, .01), breaks = seq(from = .5, to = 2, by = .25))
+

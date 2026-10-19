@@ -1,0 +1,7 @@
+library(readxl)
+library(haven)
+
+Regression_Data <- read_excel("~/Dropbox/Bernanke_Blanchard/AEJ Macro/Replication Package/Code and Data/(1) Data/Public Data/Regression_Data.xlsx")
+
+write_dta(Regression_Data, "~/Dropbox/Bernanke_Blanchard/AEJ Macro/Replication Package/Code and Data/(1) Data/Public Data/Regression_Data.dta")
+

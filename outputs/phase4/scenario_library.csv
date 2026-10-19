@@ -1,0 +1,16 @@
+key,label,category,drivers,description
+oil_flat,Oil stays at today's level,Oil,Oil / energy,"Brent stays at the October 2026 level (about $111) instead of following the backwardated futures curve (about $95 in 2027, $75 in 2029)."
+oil_up30,Oil +30% above the futures curve (persistent),Oil,Oil / energy,"Brent 30% above the baseline curve from 2026Q4 and for the whole horizon: about one standard deviation of annual Brent changes, a persistent supply loss."
+oil_dn30,Oil 30% below the futures curve (persistent),Oil,Oil / energy,Mirror image: Brent 30% below the baseline curve from 2026Q4 (demand slowdown or supply recovery).
+oil_spike,"Temporary oil spike in 2027 (+50%, fading)",Oil,Oil / energy,"A new supply disruption: Brent 50% above the curve in 2027Q1-Q2, fading linearly to the curve over the next four quarters."
+oil_norm,Oil normalises quickly to $70,Oil,Oil / energy,Brent falls linearly from $111 to $70 by June 2027 and stays there (the pre-spike range was $62-71): the spike is reversed faster than the market curve implies.
+oil_steo,Oil follows the EIA STEO path,Oil,Oil / energy,"Brent follows the EIA Short-Term Energy Outlook of the pull (about $95 in 2027Q1, $74 in 2027Q4) and then the futures curve's month-to-month changes: below the futures curve."
+vu_tight,Labour market tightens (V/U back to its 2019Q4 level),Labour market,Labour market (V/U),"V/U rises by 0.17 over four quarters, from 1.02 to 1.19, its 2019Q4 value, and stays: a demand-led tightening."
+vu_loose,Labour market cools (V/U falls by 0.2),Labour market,Labour market (V/U),"V/U falls by 0.2 over four quarters, from 1.02 to 0.82, and stays."
+gscpi_up,"Supply-chain pressure (GSCPI +1.0, persistent)",Supply chains,Supply chains (GSCPI),"GSCPI 1.0 above baseline from 2026Q4, decaying with rho = 0.8 (half-life about 3 quarters): one standard deviation of GSCPI, a renewed but not extreme disruption."
+food_up,"Food prices +8% (nominal, permanent)",Food,Food,"Nominal CPI food 8% above its baseline path, reached over four quarters and kept (the baseline path rises with wages)."
+prod_dn,Productivity growth 1 pp lower for two years,Productivity,Productivity,Trend productivity growth lower by 1 pp (annualised) in 2026Q4-2028Q3: slower supply growth.
+expect_up,"Expectations de-anchor (1y +0.5 pp, 10y +0.2 pp)",Expectations,Expectations / price / wage shocks,"A shock of +0.5 pp to one-year expected inflation in each of the next four quarters (not cumulated: the equation is persistent) and +0.05 pp per quarter to ten-year expectations: a structural risk scenario; the shock is to the expectations equations, not to a driver."
+adverse_supply,Adverse supply bundle,Combined,Oil / energy; Supply chains (GSCPI); Productivity,"Oil +30% (persistent), GSCPI +1.0 (decaying), productivity growth 1 pp lower for two years."
+benign,Benign bundle (disinflation),Combined,Oil / energy; Supply chains (GSCPI); Labour market (V/U),"Oil normalises quickly to $70, V/U falls by 0.2, GSCPI 0.5 below baseline throughout."
+overheating,"Overheating bundle (demand-led, oil stays high)",Combined,Oil / energy; Labour market (V/U); Expectations / price / wage shocks,"V/U back to 1.19, oil stays at the October level, expectations drift up (as in the de-anchoring scenario)."

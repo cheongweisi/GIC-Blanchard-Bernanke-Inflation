@@ -1,0 +1,4 @@
+check,result,detail
+bridge value computed from data truncated at 2025-12 equals full-data value,True,0.895069 vs 0.895069
+estimation through 2025Q4 (origin 2025Q4) is identical with and without the bridge,True,all four equations
+first origin whose estimation sample uses the bridge,True,"2026Q1: wage eq N 144 -> 145; other equations unchanged (145, 145)"
