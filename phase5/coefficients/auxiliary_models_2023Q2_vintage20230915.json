@@ -1,0 +1,16 @@
+{
+  "aux": {
+    "bridge_const": 1.8478214436539566,
+    "bridge_b0": 0.3042258605653923,
+    "bridge_b0_se_ols": 0.02049889720239286,
+    "bridge_r2": 0.6270545259445257,
+    "bridge_resid_sd": 15.084264776349924,
+    "bridge_n": 133,
+    "bridge_sample": "1990Q2-2023Q2",
+    "gscpi_ar_const": -0.005001416806897685,
+    "gscpi_ar_rho": 0.8619209638944966,
+    "gscpi_ar_resid_sd": 0.5083456588003195,
+    "gscpi_ar_mean": -0.03622140585538418,
+    "gscpi_ar_sample": "1998Q1-2023Q2"
+  }
+}

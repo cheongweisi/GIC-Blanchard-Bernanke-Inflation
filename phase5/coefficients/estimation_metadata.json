@@ -1,0 +1,49 @@
+{
+  "origin": "2023Q2",
+  "estimation_sample": "1990Q1-2023Q2",
+  "specification": "Model B* (production): authors' four equations, 4 lags, shortage = GSCPI 2-quarter trailing mean (lag 0), Q2/Q3-2020 wage dummies (in sample), restricted LS (sum-to-one)",
+  "headline_data": {
+    "phase3_pull": "pull_20261017T112636Z",
+    "oil_pull": "p4_20261018T051241Z",
+    "note": "current vintage (retrieved 2026-10-17/18), truncated at 2023Q2"
+  },
+  "vintage_sensitivity_data": "data_cache/macrobond/asof_20230915 (Macrobond as-of 2023-09-15)",
+  "pre_2001_history": "authors' public V/U and ECI through 2000Q4 (spliced as in Phase 3)",
+  "nobs": {
+    "gw": 134,
+    "gcpi": 134,
+    "cf10": 134,
+    "cf1": 134
+  },
+  "auxiliary": {
+    "bridge_const": 1.8686902423038694,
+    "bridge_b0": 0.30359216220933016,
+    "bridge_b0_se_ols": 0.020726049145632756,
+    "bridge_r2": 0.6209048194694913,
+    "bridge_resid_sd": 15.251416210032563,
+    "bridge_n": 133,
+    "bridge_sample": "1990Q2-2023Q2",
+    "gscpi_ar_const": -0.007629726540117434,
+    "gscpi_ar_rho": 0.8612009395609687,
+    "gscpi_ar_resid_sd": 0.5263418273408723,
+    "gscpi_ar_mean": -0.054969583482655175,
+    "gscpi_ar_sample": "1998Q1-2023Q2"
+  },
+  "ar1": {
+    "const": 2.102019235403622,
+    "phi": [
+      0.19729702665492127
+    ],
+    "n": 134
+  },
+  "ar4": {
+    "const": 1.6571323230648525,
+    "phi": [
+      0.16928386852498578,
+      0.05787231866833309,
+      0.15397368334255934,
+      -0.015090529507614747
+    ],
+    "n": 134
+  }
+}
